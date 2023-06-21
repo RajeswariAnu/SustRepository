@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Archived</name>
+   <tag></tag>
+   <elementGuidId>68e2e3e7-8a17-410c-b026-eba139c6cd8c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>app-equipment-group > div.row > div.col-12 > div.primary-table.m-3 > div.table-responsive > table.table.mb-0 > tbody.ng-star-inserted > tr.c-pointer.ng-star-inserted > td.text-center > span.active-status.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-group']/app-equipment-group/div/div/div/div/table/tbody/tr/td[4]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>74eedc0c-a15f-4330-8e07-628b3119517e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>active-status ng-star-inserted</value>
+      <webElementGuid>04c0f086-0f2c-4584-a246-6b3d3f90f892</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Archived</value>
+      <webElementGuid>dcd0b4d6-de67-49cc-ac35-1bea7f2dcaa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-group&quot;)/app-equipment-group[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;primary-table m-3&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table mb-0&quot;]/tbody[@class=&quot;ng-star-inserted&quot;]/tr[@class=&quot;c-pointer ng-star-inserted&quot;]/td[@class=&quot;text-center&quot;]/span[@class=&quot;active-status ng-star-inserted&quot;]</value>
+      <webElementGuid>a657f000-019c-4479-be50-5fae98bdcf4f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-group']/app-equipment-group/div/div/div/div/table/tbody/tr/td[4]/span</value>
+      <webElementGuid>6f7e1b29-e1db-4140-8691-8da64ec906ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dnjfhkjfmgfffffffffffffff...'])[1]/following::span[1]</value>
+      <webElementGuid>cefba453-923c-404a-a922-b3b312d48eba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[2]/following::span[2]</value>
+      <webElementGuid>dc657220-4bb1-44ed-b77f-9c2da32c8e5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='vm,v'])[1]/preceding::span[1]</value>
+      <webElementGuid>5a95a13e-3227-4018-8577-97fcdfe576c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Archived'])[8]/preceding::span[1]</value>
+      <webElementGuid>56c75897-067b-4f67-9977-ea5e2b1dd774</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-equipment-group/div/div/div/div/table/tbody/tr/td[4]/span</value>
+      <webElementGuid>bb4e19b1-c65a-4b68-9f9d-e6443af1b631</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Archived' or . = 'Archived')]</value>
+      <webElementGuid>375572fc-6ea6-44d8-bca7-11258f0bccd9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

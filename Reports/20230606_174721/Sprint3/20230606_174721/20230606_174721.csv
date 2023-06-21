@@ -1,0 +1,35 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Sprint3,,,,2023-06-06 17:47:46,2023-06-06 17:50:45,2m - 58.334s,FAILED
+,,,,,,,
+Test Cases/Sprint 3/Add crew with valid inputs,,,,2023-06-06 17:48:03,2023-06-06 17:48:07,3.706s,FAILED
+"openBrowser("""")",,,,2023-06-06 17:48:03,2023-06-06 17:48:07,3.683s,FAILED
+,,,,,,,
+Test Cases/Sprint 3/Edit crew,,,,2023-06-06 17:48:19,2023-06-06 17:48:23,3.708s,FAILED
+"openBrowser("""")",,,,2023-06-06 17:48:19,2023-06-06 17:48:23,3.690s,FAILED
+,,,,,,,
+Test Cases/Sprint 3/Delete crew,,,,2023-06-06 17:48:35,2023-06-06 17:48:38,3.417s,FAILED
+"openBrowser("""")",,,,2023-06-06 17:48:35,2023-06-06 17:48:38,3.403s,FAILED
+,,,,,,,
+Test Cases/Sprint 3/Search valid crew name,,,,2023-06-06 17:48:50,2023-06-06 17:48:54,3.957s,FAILED
+"openBrowser("""")",,,,2023-06-06 17:48:50,2023-06-06 17:48:54,3.948s,FAILED
+,,,,,,,
+Test Cases/Sprint 3/Search with invalid crew name,,,,2023-06-06 17:49:06,2023-06-06 17:49:10,3.886s,FAILED
+"openBrowser("""")",,,,2023-06-06 17:49:06,2023-06-06 17:49:10,3.876s,FAILED
+,,,,,,,
+Test Cases/Sprint 3/Using filter status in crew,,,,2023-06-06 17:49:22,2023-06-06 17:49:27,4.429s,FAILED
+"openBrowser("""")",,,,2023-06-06 17:49:22,2023-06-06 17:49:27,4.417s,FAILED
+,,,,,,,
+Test Cases/Sprint 3/Add team member with valid inputs,,,,2023-06-06 17:49:39,2023-06-06 17:49:42,3.672s,FAILED
+"openBrowser("""")",,,,2023-06-06 17:49:39,2023-06-06 17:49:42,3.671s,FAILED
+,,,,,,,
+Test Cases/Sprint 3/Edit team member,,,,2023-06-06 17:49:54,2023-06-06 17:49:58,3.606s,FAILED
+"openBrowser("""")",,,,2023-06-06 17:49:54,2023-06-06 17:49:58,3.589s,FAILED
+,,,,,,,
+Test Cases/Sprint 3/Archive team member,,,,2023-06-06 17:50:10,2023-06-06 17:50:13,3.669s,FAILED
+"openBrowser("""")",,,,2023-06-06 17:50:10,2023-06-06 17:50:13,3.659s,FAILED
+,,,,,,,
+Test Cases/Sprint 3/Search with valid team member,,,,2023-06-06 17:50:25,2023-06-06 17:50:29,4.053s,FAILED
+"openBrowser("""")",,,,2023-06-06 17:50:25,2023-06-06 17:50:29,4.052s,FAILED
+,,,,,,,
+Test Cases/Sprint 3/Search with invalid team member,,,,2023-06-06 17:50:41,2023-06-06 17:50:45,3.668s,FAILED
+"openBrowser("""")",,,,2023-06-06 17:50:41,2023-06-06 17:50:45,3.668s,FAILED

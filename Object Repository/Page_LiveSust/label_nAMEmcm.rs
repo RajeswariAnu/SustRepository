@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_nAMEmcm</name>
+   <tag></tag>
+   <elementGuidId>33b683f8-9fab-4709-9fbd-3a76eedc23d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>angular2-multiselect.custom-dropdown.form-control.mb-3.ng-untouched.ng-pristine.ng-valid > div.cuppa-dropdown > div.dropdown-list.animated.fadeIn.tagToBody > div.list-area > div.ng-star-inserted > ul.lazyContainer > li.pure-checkbox.ng-star-inserted > label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='equipmentGroupForm']/div/div[2]/angular2-multiselect/div/div[2]/div[3]/div[4]/ul/li/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>a9b6bad5-7d93-4de6-9ecd-6c7b70de7c00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>nAMEmcm</value>
+      <webElementGuid>be9eeadd-e31a-4cd3-b0ba-c39e4fc52245</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;equipmentGroupForm&quot;)/div[@class=&quot;row align-items-start justify-content-center&quot;]/div[@class=&quot;col-12 col-md-6 ps-4&quot;]/angular2-multiselect[@class=&quot;custom-dropdown form-control mb-3 ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;cuppa-dropdown&quot;]/div[@class=&quot;dropdown-list animated fadeIn tagToBody&quot;]/div[@class=&quot;list-area&quot;]/div[@class=&quot;ng-star-inserted&quot;]/ul[@class=&quot;lazyContainer&quot;]/li[@class=&quot;pure-checkbox ng-star-inserted&quot;]/label[1]</value>
+      <webElementGuid>32bd2ea7-855f-4054-8dde-febeeec8f61d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='equipmentGroupForm']/div/div[2]/angular2-multiselect/div/div[2]/div[3]/div[4]/ul/li/label</value>
+      <webElementGuid>bb49c40a-0475-4077-ab23-98123a4802fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select All'])[4]/following::label[1]</value>
+      <webElementGuid>443ad6ae-8417-400b-8a83-a18f8a758bb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select All'])[3]/following::label[1]</value>
+      <webElementGuid>7e21bcc4-e6d0-43ed-bd84-a549ce4b19a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='size'])[2]/preceding::label[1]</value>
+      <webElementGuid>ddc8cf61-f7d6-45fc-9e5d-0ff30576984d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Num'])[2]/preceding::label[2]</value>
+      <webElementGuid>19b06709-1fe3-487a-8a9f-b5cd6fba598c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/ul/li/label</value>
+      <webElementGuid>fbfa0873-7074-49ab-ac7f-219f8092f440</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'nAMEmcm' or . = 'nAMEmcm')]</value>
+      <webElementGuid>d36fbd79-d20d-4d52-b535-47307a10e78a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

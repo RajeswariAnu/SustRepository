@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_ActiveSelect AllUnSelect AllActiveInacti_00ceea</name>
+   <tag></tag>
+   <elementGuidId>8816aed2-4f74-4ba8-bcf8-f84133fff045</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-crews']/div/div/div/ul</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.list-inline.mb-0.px-3.py-4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>f675df3e-f2a5-4705-8873-13a0ee2f6571</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-inline mb-0 px-3 py-4</value>
+      <webElementGuid>54c6b439-b5c4-48ed-8aba-0f3f29a12e52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ActiveSelect AllUnSelect AllActiveInactiveArchivedAdd Crew</value>
+      <webElementGuid>4f9c0681-f498-42db-b1a2-28d6fc9dc9c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-crews&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;primary-table m-3&quot;]/ul[@class=&quot;list-inline mb-0 px-3 py-4&quot;]</value>
+      <webElementGuid>12c73820-9dab-4ae1-a76d-37f573bcde5f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-crews']/div/div/div/ul</value>
+      <webElementGuid>5a1765f8-8895-4d82-bb4d-96881b4e38d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Team Members'])[1]/following::ul[1]</value>
+      <webElementGuid>1a363757-46c2-4697-9acb-f4d124eeddc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Crews'])[3]/following::ul[1]</value>
+      <webElementGuid>b7d526cb-ed66-4da1-b252-920db2dd5d0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/ul</value>
+      <webElementGuid>bec48853-5c3f-4208-b5f6-6f6420ec1ea7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = 'ActiveSelect AllUnSelect AllActiveInactiveArchivedAdd Crew' or . = 'ActiveSelect AllUnSelect AllActiveInactiveArchivedAdd Crew')]</value>
+      <webElementGuid>a7be1505-9ea6-47cd-b913-bfaad99fbf39</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

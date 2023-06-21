@@ -1,0 +1,84 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down",
+      "brokenLocator": "//div[@id\u003d\u0027nav-equipment\u0027]/app-equipment/div/div/div/div/table/tbody/tr[2]/td[6]/button[2]/em",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//app-input/div/div/em",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230613_115912/Sprint1/20230613_115912/Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/div_Old Password_password-eye ng-star-inserted",
+      "brokenLocator": "//form[@id\u003d\u0027crewForm\u0027]/div/div/div/color-picker/div/div[9]/div[2]/div[11]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Cancel\u0027])[1]/preceding::div[8]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230613_115912/Sprint1/20230613_115912/Object Repository/Page_LiveSust/div_Old Password_password-eye ng-star-inserted_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/a_Forgot Password",
+      "brokenLocator": "//form[@id\u003d\u0027login\u0027]/div/div[2]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Remember Me\u0027])[1]/following::a[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230613_115912/Sprint1/20230613_115912/Object Repository/Page_LiveSust/a_Forgot Password_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/input_Having trouble logging in_otp_0_sel5c_9fb327",
+      "brokenLocator": "//input[@id\u003d\u0027otp_0_sel5cq0ghmlhetymsk\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230613_115912/Sprint1/20230613_115912/Object Repository/Page_LiveSust/input_Having trouble logging in_otp_0_sel5c_9fb327_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/input_Having trouble logging in_otp_1_sel5c_45af05",
+      "brokenLocator": "//input[@id\u003d\u0027otp_1_sel5cq0ghmlhetymsk\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230613_115912/Sprint1/20230613_115912/Object Repository/Page_LiveSust/input_Having trouble logging in_otp_1_sel5c_45af05_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/input_Having trouble logging in_otp_2_sel5c_195f70",
+      "brokenLocator": "//input[@id\u003d\u0027otp_2_sel5cq0ghmlhetymsk\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230613_115912/Sprint1/20230613_115912/Object Repository/Page_LiveSust/input_Having trouble logging in_otp_2_sel5c_195f70_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/input_Having trouble logging in_otp_3_sel5c_df0db2",
+      "brokenLocator": "//input[@id\u003d\u0027otp_3_sel5cq0ghmlhetymsk\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[4]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230613_115912/Sprint1/20230613_115912/Object Repository/Page_LiveSust/input_Having trouble logging in_otp_3_sel5c_df0db2_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/input_Enter New Password_Enter Password",
+      "brokenLocator": "//input[@id\u003d\u0027Enter Password\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230613_115912/Sprint1/20230613_115912/Object Repository/Page_LiveSust/input_Enter New Password_Enter Password_position.png"
+    }
+  ]
+}

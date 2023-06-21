@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Active</name>
+   <tag></tag>
+   <elementGuidId>86da73cf-3525-435b-b4f2-af0f85a7b119</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Active')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.d-flex.align-items-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bd22ef5e-f251-4bd9-937e-70c964040a0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>2e36b6fd-c089-47aa-8198-8b8cf087a567</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-flex align-items-center</value>
+      <webElementGuid>f9d1474f-6899-4e5c-a431-d18769defc4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Active </value>
+      <webElementGuid>6a23ff63-4757-46ca-88d7-e4ae0a4e93dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-tns-0-1 modal-open&quot;]/modal-container[@class=&quot;modal fade show&quot;]/div[@class=&quot;md-modal modal-dialog sm-modal&quot;]/div[@class=&quot;modal-content&quot;]/app-crew-modal[1]/div[1]/div[@class=&quot;modal-header border-bottom-0 pb-0 px-4&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/div[@class=&quot;filter-select position-relative&quot;]/button[@class=&quot;btn dropdown-toggle btn-block w-100 show&quot;]/a[@class=&quot;d-flex align-items-center&quot;]</value>
+      <webElementGuid>a017b828-add5-4d55-a478-026a057a4b37</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Active')]</value>
+      <webElementGuid>1cbe8025-5618-4c16-8340-e455f6d1906c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Crew'])[2]/following::a[1]</value>
+      <webElementGuid>b23ff2cc-7293-49b2-963e-3a99899ac808</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='page'])[14]/following::a[1]</value>
+      <webElementGuid>0ca3754d-ac10-4f73-96f4-7cefd62a5eeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[14]/preceding::a[1]</value>
+      <webElementGuid>e2da7b9f-2957-4534-93e0-118ba4de3540</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inactive'])[3]/preceding::a[1]</value>
+      <webElementGuid>730dbbe6-e2c7-44dc-8082-586b1cf7c0be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:void(0)')]</value>
+      <webElementGuid>555bcc26-0df9-4e1e-a802-a10108388cce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/a</value>
+      <webElementGuid>b99c92c2-a8af-4263-a4cb-334438228b2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0)' and (text() = ' Active ' or . = ' Active ')]</value>
+      <webElementGuid>7480e1dd-e015-4b9e-bfc8-7a2ec748569a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Assign Team Members</name>
+   <tag></tag>
+   <elementGuidId>8a7480ab-1e6c-4eae-bb29-3c549c465a00</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='crewForm']/div/div/angular2-multiselect/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>angular2-multiselect.custom-dropdown.form-control.mb-4.ng-untouched.ng-pristine.ng-valid > div.cuppa-dropdown > div.selected-list > div.c-btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e916727c-f8d1-47e0-b3e2-cf7f922007d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c-btn</value>
+      <webElementGuid>dc1c8e17-32a2-4f01-bf11-572d753cc678</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>4e2a6ca8-3a06-4362-984f-08392518f75c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Assign Team Members</value>
+      <webElementGuid>a3867d2e-03a9-40db-8a38-2a791870786a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;crewForm&quot;)/div[@class=&quot;row align-items-start justify-content-center&quot;]/div[@class=&quot;col-12 col-md-6 pe-md-4 mb-3&quot;]/angular2-multiselect[@class=&quot;custom-dropdown form-control mb-4 ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;cuppa-dropdown&quot;]/div[@class=&quot;selected-list&quot;]/div[@class=&quot;c-btn&quot;]</value>
+      <webElementGuid>1bbac300-2d9b-4b30-84d3-385667b5428c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='crewForm']/div/div/angular2-multiselect/div/div/div</value>
+      <webElementGuid>0b488078-fee4-4cd8-a28e-6addbe6db75d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Crew Name*'])[1]/following::div[3]</value>
+      <webElementGuid>a9c80922-c282-401b-8270-ac5a0842054f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Archived'])[12]/following::div[7]</value>
+      <webElementGuid>01fc5e62-d99e-4811-83f0-55714b3d4f08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select All'])[3]/preceding::div[3]</value>
+      <webElementGuid>69bd3563-b266-421d-9b63-477160783df5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/angular2-multiselect/div/div/div</value>
+      <webElementGuid>88981146-82dc-4b36-9849-90195ff4a15b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Assign Team Members' or . = 'Assign Team Members')]</value>
+      <webElementGuid>5348b2a1-7892-4cec-81d3-e40c2880fa99</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

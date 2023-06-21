@@ -1,0 +1,41 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Sprint 4,,,,2023-06-06 14:30:58,2023-06-06 14:35:14,4m - 15.398s,FAILED
+,,,,,,,
+Test Cases/Sprint 4/Add equip,,,,2023-06-06 14:31:14,2023-06-06 14:31:18,3.650s,FAILED
+"openBrowser("""")",,,,2023-06-06 14:31:14,2023-06-06 14:31:18,3.630s,FAILED
+,,,,,,,
+Test Cases/Sprint 4/Add equipment group,,,,2023-06-06 14:31:31,2023-06-06 14:31:35,3.846s,FAILED
+"openBrowser("""")",,,,2023-06-06 14:31:31,2023-06-06 14:31:35,3.830s,FAILED
+,,,,,,,
+Test Cases/Sprint 4/Archive equip,,,,2023-06-06 14:31:55,2023-06-06 14:31:59,4.456s,FAILED
+"openBrowser("""")",,,,2023-06-06 14:31:55,2023-06-06 14:31:59,4.431s,FAILED
+,,,,,,,
+Test Cases/Sprint 4/Delete equip,,,,2023-06-06 14:32:17,2023-06-06 14:32:25,8.552s,FAILED
+"openBrowser("""")",,,,2023-06-06 14:32:17,2023-06-06 14:32:25,8.516s,FAILED
+,,,,,,,
+Test Cases/Sprint 4/Delete equip group,,,,2023-06-06 14:32:45,2023-06-06 14:32:49,4.205s,FAILED
+"openBrowser("""")",,,,2023-06-06 14:32:45,2023-06-06 14:32:49,4.189s,FAILED
+,,,,,,,
+Test Cases/Sprint 4/Edit equip,,,,2023-06-06 14:33:07,2023-06-06 14:33:15,8.065s,FAILED
+"openBrowser("""")",,,,2023-06-06 14:33:07,2023-06-06 14:33:15,8.042s,FAILED
+,,,,,,,
+Test Cases/Sprint 4/Edit equipment group,,,,2023-06-06 14:33:15,2023-06-06 14:33:16,1.312s,PASSED
+return null,,,,2023-06-06 14:33:16,2023-06-06 14:33:16,0.001s,PASSED
+,,,,,,,
+Test Cases/Sprint 4/Seach with invalid Equip group name,,,,2023-06-06 14:33:31,2023-06-06 14:33:37,5.707s,FAILED
+"openBrowser("""")",,,,2023-06-06 14:33:31,2023-06-06 14:33:37,5.687s,FAILED
+,,,,,,,
+Test Cases/Sprint 4/Search with invalid equip name,,,,2023-06-06 14:33:52,2023-06-06 14:33:56,4.494s,FAILED
+"openBrowser("""")",,,,2023-06-06 14:33:52,2023-06-06 14:33:56,4.471s,FAILED
+,,,,,,,
+Test Cases/Sprint 4/Search with valid Equip group name,,,,2023-06-06 14:34:10,2023-06-06 14:34:16,5.602s,FAILED
+"openBrowser("""")",,,,2023-06-06 14:34:10,2023-06-06 14:34:16,5.585s,FAILED
+,,,,,,,
+Test Cases/Sprint 4/Search with valid equipment name,,,,2023-06-06 14:34:34,2023-06-06 14:34:40,5.526s,FAILED
+"openBrowser("""")",,,,2023-06-06 14:34:34,2023-06-06 14:34:40,5.522s,FAILED
+,,,,,,,
+Test Cases/Sprint 4/Uisng filter status in Equip,,,,2023-06-06 14:34:54,2023-06-06 14:34:58,3.586s,FAILED
+"openBrowser("""")",,,,2023-06-06 14:34:54,2023-06-06 14:34:58,3.586s,FAILED
+,,,,,,,
+Test Cases/Sprint 4/Using filter status in Equip group,,,,2023-06-06 14:35:10,2023-06-06 14:35:14,3.676s,FAILED
+"openBrowser("""")",,,,2023-06-06 14:35:10,2023-06-06 14:35:14,3.673s,FAILED

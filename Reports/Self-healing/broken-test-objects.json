@@ -1,0 +1,254 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/input_Having trouble logging in_otp_0_sel5c_9fb327",
+      "brokenLocator": "//input[@id\u003d\u0027otp_0_sel5cq0ghmlhetymsk\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_LiveSust/input_Having trouble logging in_otp_0_sel5c_9fb327_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/input_Having trouble logging in_otp_1_sel5c_45af05",
+      "brokenLocator": "//input[@id\u003d\u0027otp_1_sel5cq0ghmlhetymsk\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_LiveSust/input_Having trouble logging in_otp_1_sel5c_45af05_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/input_Having trouble logging in_otp_2_sel5c_195f70",
+      "brokenLocator": "//input[@id\u003d\u0027otp_2_sel5cq0ghmlhetymsk\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_LiveSust/input_Having trouble logging in_otp_2_sel5c_195f70_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/input_Having trouble logging in_otp_3_sel5c_df0db2",
+      "brokenLocator": "//input[@id\u003d\u0027otp_3_sel5cq0ghmlhetymsk\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[4]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_LiveSust/input_Having trouble logging in_otp_3_sel5c_df0db2_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/input_Enter New Password_Enter Password",
+      "brokenLocator": "//input[@id\u003d\u0027Enter Password\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_LiveSust/input_Enter New Password_Enter Password_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down",
+      "brokenLocator": "//form[@id\u003d\u0027changePasswordForm\u0027]/div/app-input/div/div/em",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//app-input/div/div/em",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down",
+      "brokenLocator": "//form[@id\u003d\u0027changePasswordForm\u0027]/div/app-input[2]/div/div/em",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//button/em",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/div_Old Password_password-eye ng-star-inserted",
+      "brokenLocator": "//form[@id\u003d\u0027crewForm\u0027]/div/div/div/color-picker/div/div[2]/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Cancel\u0027])[1]/preceding::div[8]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_LiveSust/div_Old Password_password-eye ng-star-inserted_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/button_Select",
+      "brokenLocator": "(//button[@type\u003d\u0027button\u0027])[8]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Cancel\u0027])[1]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_LiveSust/button_Select_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/div_Team member data updated successfully",
+      "brokenLocator": "//div[@id\u003d\u0027toast-container\u0027]/div/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027page\u0027])[14]/following::div[7]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/li_Powered Equipment",
+      "brokenLocator": "//form[@id\u003d\u0027equipmentForm\u0027]/div/div/app-select/div/ul/li",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*/text()[normalize-space(.)\u003d\u0027Powered Equipment\u0027]/parent::*",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_LiveSust/li_Powered Equipment_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85",
+      "brokenLocator": "(//input[@type\u003d\u0027text\u0027])[8]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(//input[@type\u003d\u0027text\u0027])[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/button_Add Crew",
+      "brokenLocator": "//div[@id\u003d\u0027nav-crews\u0027]/div/div/div/ul/li[3]/button",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Archived\u0027])[1]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_LiveSust/button_Add Crew_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/p_No Data Found",
+      "brokenLocator": "//div[@id\u003d\u0027nav-equipment\u0027]/app-equipment/div/div/div/div/table/tbody/tr/td/p",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Action\u0027])[1]/following::p[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_LiveSust/p_No Data Found_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/div_Filter Status",
+      "brokenLocator": "//div[@id\u003d\u0027nav-equipment\u0027]/app-equipment/div/div/div/ul/li[2]/app-multi-select/angular2-multiselect/div/div/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Select All\u0027])[1]/preceding::div[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_LiveSust/div_Filter Status_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/label_Active",
+      "brokenLocator": "//div[@id\u003d\u0027nav-crews\u0027]/div/div/div/ul/li[2]/app-multi-select/angular2-multiselect/div/div[2]/div[3]/div[3]/ul/li/label",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027UnSelect All\u0027])[1]/following::label[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_LiveSust/label_Active_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/ul_ActiveSelect AllUnSelect AllActiveInacti_00ceea",
+      "brokenLocator": "//div[@id\u003d\u0027nav-crews\u0027]/div/div/div/ul",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Team Members\u0027])[1]/following::ul[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_LiveSust/ul_ActiveSelect AllUnSelect AllActiveInacti_00ceea_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/button_Add Team Member",
+      "brokenLocator": "//div[@id\u003d\u0027nav-team\u0027]/div/div/div/ul/li[3]/button",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Archived\u0027])[7]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_LiveSust/button_Add Team Member_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/button_Continue",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Cancel\u0027])[1]/following::button[1]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[3]/button[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_LiveSust/button_Continue_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/button_Active_btn-outline",
+      "brokenLocator": "//div[@id\u003d\u0027nav-equipment\u0027]/app-equipment/div/div/div/div/table/tbody/tr[5]/td[6]/button[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Active\u0027])[5]/following::button[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/button_Add Equipment",
+      "brokenLocator": "//div[@id\u003d\u0027nav-equipment\u0027]/app-equipment/div/div/div/ul/li[3]/button",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Require Maintenance\u0027])[1]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_LiveSust/button_Add Equipment_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/textarea_Equipment Group Name_Notes",
+      "brokenLocator": "//textarea[@id\u003d\u0027Notes\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//textarea",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_LiveSust/textarea_Equipment Group Name_Notes_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/button_Add Equipment Group",
+      "brokenLocator": "//div[@id\u003d\u0027nav-group\u0027]/app-equipment-group/div/div/div/ul/li[3]/button",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Archived\u0027])[5]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_LiveSust/button_Add Equipment Group_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/label_Need Replacement",
+      "brokenLocator": "//div[@id\u003d\u0027nav-equipment\u0027]/app-equipment/div/div/div/ul/li[2]/app-multi-select/angular2-multiselect/div/div[2]/div[3]/div[3]/ul/li[4]/label",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Inactive\u0027])[1]/following::label[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_LiveSust/label_Need Replacement_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/a_Forgot Password",
+      "brokenLocator": "//form[@id\u003d\u0027login\u0027]/div/div[2]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Remember Me\u0027])[1]/following::a[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_LiveSust/a_Forgot Password_neighbor.png"
+    }
+  ]
+}

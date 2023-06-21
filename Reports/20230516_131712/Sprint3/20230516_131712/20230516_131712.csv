@@ -1,0 +1,146 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Sprint3,Chrome 113.0.0.0,,,2023-05-16 13:17:25,2023-05-16 13:27:12,9m - 46.369s,FAILED
+,,,,,,,
+Test Cases/Sprint 3/Add crew with valid inputs,Chrome 113.0.0.0,,,2023-05-16 13:18:29,2023-05-16 13:18:49,19.798s,FAILED
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-16 13:18:29,2023-05-16 13:18:34,4.921s,PASSED
+"navigateToUrl(""https://livesust-test-web.optisolbusiness.com/login"")",Chrome 113.0.0.0,,,2023-05-16 13:18:34,2023-05-16 13:18:37,3.766s,PASSED
+maximizeWindow(),Chrome 113.0.0.0,,,2023-05-16 13:18:37,2023-05-16 13:18:38,0.169s,PASSED
+"setText(findTestObject(""Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address""), ""Sachin@yopmail.com"")",Chrome 113.0.0.0,,,2023-05-16 13:18:38,2023-05-16 13:18:39,1.309s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password""), ""+p0xE3Qc9agwqAa4cuTULg=="")",Chrome 113.0.0.0,,,2023-05-16 13:18:39,2023-05-16 13:18:40,0.584s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/button_Log In""))",Chrome 113.0.0.0,,,2023-05-16 13:18:40,2023-05-16 13:18:40,0.561s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/span_Crews""))",Chrome 113.0.0.0,,,2023-05-16 13:18:40,2023-05-16 13:18:43,2.464s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/button_Add Crew""))",Chrome 113.0.0.0,,,2023-05-16 13:18:43,2023-05-16 13:18:44,1.249s,PASSED
+"setText(findTestObject(""Object Repository/Page_LiveSust/input_Archived_Crew Name""), ""Crewwwww@1235"")",Chrome 113.0.0.0,,,2023-05-16 13:18:44,2023-05-16 13:18:45,1.415s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/div_Assign Team Members""))",Chrome 113.0.0.0,,,2023-05-16 13:18:45,2023-05-16 13:18:46,0.531s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/label_Vaniiiiii Vv""))",Chrome 113.0.0.0,,,2023-05-16 13:18:46,2023-05-16 13:18:46,0.548s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/label_hjhuk hgjhu""))",Chrome 113.0.0.0,,,2023-05-16 13:18:46,2023-05-16 13:18:47,0.948s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/div_Crew NameVaniiiiii Vvhjhuk hgjhuSelect _b5400d""))",Chrome 113.0.0.0,,,2023-05-16 13:18:47,2023-05-16 13:18:48,0.575s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85""))",Chrome 113.0.0.0,,,2023-05-16 13:18:48,2023-05-16 13:18:49,0.724s,FAILED
+,,,,,,,
+Test Cases/Sprint 3/Edit crew,Chrome 113.0.0.0,,,2023-05-16 13:19:37,2023-05-16 13:19:51,14.755s,FAILED
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-16 13:19:37,2023-05-16 13:19:41,4.857s,PASSED
+"navigateToUrl(""https://livesust-test-web.optisolbusiness.com/login"")",Chrome 113.0.0.0,,,2023-05-16 13:19:41,2023-05-16 13:19:45,3.884s,PASSED
+maximizeWindow(),Chrome 113.0.0.0,,,2023-05-16 13:19:45,2023-05-16 13:19:46,0.173s,PASSED
+"setText(findTestObject(""Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address""), ""Sachin@yopmail.com"")",Chrome 113.0.0.0,,,2023-05-16 13:19:46,2023-05-16 13:19:47,0.969s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password""), ""+p0xE3Qc9agwqAa4cuTULg=="")",Chrome 113.0.0.0,,,2023-05-16 13:19:47,2023-05-16 13:19:47,0.544s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/button_Log In""))",Chrome 113.0.0.0,,,2023-05-16 13:19:47,2023-05-16 13:19:48,0.523s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/span_Crews""))",Chrome 113.0.0.0,,,2023-05-16 13:19:48,2023-05-16 13:19:50,2.503s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down""))",Chrome 113.0.0.0,,,2023-05-16 13:19:50,2023-05-16 13:19:51,1.285s,FAILED
+,,,,,,,
+Test Cases/Sprint 3/Delete crew,Chrome 113.0.0.0,,,2023-05-16 13:20:37,2023-05-16 13:20:52,14.410s,FAILED
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-16 13:20:37,2023-05-16 13:20:42,4.430s,PASSED
+"navigateToUrl(""https://livesust-test-web.optisolbusiness.com/login"")",Chrome 113.0.0.0,,,2023-05-16 13:20:42,2023-05-16 13:20:45,3.578s,PASSED
+maximizeWindow(),Chrome 113.0.0.0,,,2023-05-16 13:20:45,2023-05-16 13:20:46,0.174s,PASSED
+"setText(findTestObject(""Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address""), ""Sachin@yopmail.com"")",Chrome 113.0.0.0,,,2023-05-16 13:20:46,2023-05-16 13:20:47,1.047s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password""), ""+p0xE3Qc9agwqAa4cuTULg=="")",Chrome 113.0.0.0,,,2023-05-16 13:20:47,2023-05-16 13:20:47,0.719s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/button_Log In""))",Chrome 113.0.0.0,,,2023-05-16 13:20:47,2023-05-16 13:20:48,0.598s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/a_Crews""))",Chrome 113.0.0.0,,,2023-05-16 13:20:48,2023-05-16 13:20:50,2.445s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down""))",Chrome 113.0.0.0,,,2023-05-16 13:20:50,2023-05-16 13:20:52,1.407s,FAILED
+,,,,,,,
+Test Cases/Sprint 3/Search valid crew name,Chrome 113.0.0.0,,,2023-05-16 13:21:38,2023-05-16 13:21:53,15.250s,FAILED
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-16 13:21:38,2023-05-16 13:21:43,5.302s,PASSED
+"navigateToUrl(""https://livesust-test-web.optisolbusiness.com/login"")",Chrome 113.0.0.0,,,2023-05-16 13:21:43,2023-05-16 13:21:46,3.442s,PASSED
+maximizeWindow(),Chrome 113.0.0.0,,,2023-05-16 13:21:46,2023-05-16 13:21:47,0.190s,PASSED
+"setText(findTestObject(""Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address""), ""Sachin@yopmail.com"")",Chrome 113.0.0.0,,,2023-05-16 13:21:47,2023-05-16 13:21:48,1.175s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password""), ""+p0xE3Qc9agwqAa4cuTULg=="")",Chrome 113.0.0.0,,,2023-05-16 13:21:48,2023-05-16 13:21:48,0.583s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/button_Log In""))",Chrome 113.0.0.0,,,2023-05-16 13:21:48,2023-05-16 13:21:49,0.648s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/span_Crews""))",Chrome 113.0.0.0,,,2023-05-16 13:21:49,2023-05-16 13:21:51,2.361s,PASSED
+"setText(findTestObject(""Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85""), ""nvv"")",Chrome 113.0.0.0,,,2023-05-16 13:21:51,2023-05-16 13:21:53,1.522s,FAILED
+,,,,,,,
+Test Cases/Sprint 3/Search with invalid crew name,Chrome 113.0.0.0,,,2023-05-16 13:22:41,2023-05-16 13:22:56,15.296s,FAILED
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-16 13:22:41,2023-05-16 13:22:46,5.103s,PASSED
+"navigateToUrl(""https://livesust-test-web.optisolbusiness.com/login"")",Chrome 113.0.0.0,,,2023-05-16 13:22:46,2023-05-16 13:22:49,3.334s,PASSED
+maximizeWindow(),Chrome 113.0.0.0,,,2023-05-16 13:22:49,2023-05-16 13:22:49,0.187s,PASSED
+"setText(findTestObject(""Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address""), ""Sachin@yopmail.com"")",Chrome 113.0.0.0,,,2023-05-16 13:22:49,2023-05-16 13:22:51,1.598s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password""), ""+p0xE3Qc9agwqAa4cuTULg=="")",Chrome 113.0.0.0,,,2023-05-16 13:22:51,2023-05-16 13:22:51,0.604s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/button_Log In""))",Chrome 113.0.0.0,,,2023-05-16 13:22:51,2023-05-16 13:22:52,0.544s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/span_Crews""))",Chrome 113.0.0.0,,,2023-05-16 13:22:52,2023-05-16 13:22:54,2.401s,PASSED
+"setText(findTestObject(""Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85""), ""ffjghkf"")",Chrome 113.0.0.0,,,2023-05-16 13:22:54,2023-05-16 13:22:56,1.511s,FAILED
+,,,,,,,
+Test Cases/Sprint 3/Using filter status in crew,Chrome 113.0.0.0,,,2023-05-16 13:22:56,2023-05-16 13:23:15,19.018s,PASSED
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-16 13:22:57,2023-05-16 13:23:02,4.730s,PASSED
+"navigateToUrl(""https://livesust-test-web.optisolbusiness.com/login"")",Chrome 113.0.0.0,,,2023-05-16 13:23:02,2023-05-16 13:23:05,3.607s,PASSED
+maximizeWindow(),Chrome 113.0.0.0,,,2023-05-16 13:23:05,2023-05-16 13:23:05,0.177s,PASSED
+"setText(findTestObject(""Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address""), ""Sachin@yopmail.com"")",Chrome 113.0.0.0,,,2023-05-16 13:23:05,2023-05-16 13:23:07,1.046s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password""), ""+p0xE3Qc9agwqAa4cuTULg=="")",Chrome 113.0.0.0,,,2023-05-16 13:23:07,2023-05-16 13:23:07,0.613s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/button_Log In""))",Chrome 113.0.0.0,,,2023-05-16 13:23:07,2023-05-16 13:23:08,0.501s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/span_Crews""))",Chrome 113.0.0.0,,,2023-05-16 13:23:08,2023-05-16 13:23:10,2.487s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/div_Filter Status""))",Chrome 113.0.0.0,,,2023-05-16 13:23:10,2023-05-16 13:23:11,1.319s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/label_Active""))",Chrome 113.0.0.0,,,2023-05-16 13:23:11,2023-05-16 13:23:12,0.581s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/ul_ActiveSelect AllUnSelect AllActiveInacti_00ceea""))",Chrome 113.0.0.0,,,2023-05-16 13:23:12,2023-05-16 13:23:13,0.990s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Page_LiveSust/span_Active""))",Chrome 113.0.0.0,,,2023-05-16 13:23:13,2023-05-16 13:23:14,0.487s,PASSED
+closeBrowser(),Chrome 113.0.0.0,,,2023-05-16 13:23:14,2023-05-16 13:23:15,1.473s,PASSED
+,,,,,,,
+Test Cases/Sprint 3/Add team member with valid inputs,Chrome 113.0.0.0,,,2023-05-16 13:23:15,2023-05-16 13:23:38,23.036s,PASSED
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-16 13:23:16,2023-05-16 13:23:19,3.417s,PASSED
+"navigateToUrl(""https://livesust-test-web.optisolbusiness.com/login"")",Chrome 113.0.0.0,,,2023-05-16 13:23:19,2023-05-16 13:23:23,3.629s,PASSED
+maximizeWindow(),Chrome 113.0.0.0,,,2023-05-16 13:23:23,2023-05-16 13:23:23,0.164s,PASSED
+"setText(findTestObject(""Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address""), ""Sachin@yopmail.com"")",Chrome 113.0.0.0,,,2023-05-16 13:23:23,2023-05-16 13:23:24,0.969s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password""), ""+p0xE3Qc9agwqAa4cuTULg=="")",Chrome 113.0.0.0,,,2023-05-16 13:23:24,2023-05-16 13:23:25,0.667s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/button_Log In""))",Chrome 113.0.0.0,,,2023-05-16 13:23:25,2023-05-16 13:23:25,0.640s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/span_Crews""))",Chrome 113.0.0.0,,,2023-05-16 13:23:25,2023-05-16 13:23:28,2.376s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/span_Team Members""))",Chrome 113.0.0.0,,,2023-05-16 13:23:28,2023-05-16 13:23:29,1.315s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/button_Add Team Member""))",Chrome 113.0.0.0,,,2023-05-16 13:23:29,2023-05-16 13:23:30,0.570s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/button_Continue""))",Chrome 113.0.0.0,,,2023-05-16 13:23:30,2023-05-16 13:23:30,0.892s,PASSED
+"setText(findTestObject(""Object Repository/Page_LiveSust/input_Archived_First Name""), ""NewTeam"")",Chrome 113.0.0.0,,,2023-05-16 13:23:30,2023-05-16 13:23:32,1.362s,PASSED
+"setText(findTestObject(""Object Repository/Page_LiveSust/input_First Name_Last Name""), ""T"")",Chrome 113.0.0.0,,,2023-05-16 13:23:32,2023-05-16 13:23:33,0.861s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/div_Primary Role""))",Chrome 113.0.0.0,,,2023-05-16 13:23:33,2023-05-16 13:23:33,0.580s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/label_Team Members""))",Chrome 113.0.0.0,,,2023-05-16 13:23:33,2023-05-16 13:23:34,0.746s,PASSED
+"setText(findTestObject(""Object Repository/Page_LiveSust/input_Preferred Name_phone""), ""(686) 094-5879"")",Chrome 113.0.0.0,,,2023-05-16 13:23:34,2023-05-16 13:23:35,0.916s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/button_Save Team Member""))",Chrome 113.0.0.0,,,2023-05-16 13:23:35,2023-05-16 13:23:36,0.617s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_LiveSust/div_Team member created successfully""), 0)",Chrome 113.0.0.0,,,2023-05-16 13:23:36,2023-05-16 13:23:37,0.996s,PASSED
+closeBrowser(),Chrome 113.0.0.0,,,2023-05-16 13:23:37,2023-05-16 13:23:38,1.436s,PASSED
+,,,,,,,
+Test Cases/Sprint 3/Edit team member,Chrome 113.0.0.0,,,2023-05-16 13:24:41,2023-05-16 13:25:01,20.707s,FAILED
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-16 13:24:41,2023-05-16 13:24:46,5.065s,PASSED
+"navigateToUrl(""https://livesust-test-web.optisolbusiness.com/login"")",Chrome 113.0.0.0,,,2023-05-16 13:24:46,2023-05-16 13:24:49,3.554s,PASSED
+"setText(findTestObject(""Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address""), ""Sachin@yopmail.com"")",Chrome 113.0.0.0,,,2023-05-16 13:24:49,2023-05-16 13:24:50,1.120s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password""), ""+p0xE3Qc9agwqAa4cuTULg=="")",Chrome 113.0.0.0,,,2023-05-16 13:24:50,2023-05-16 13:24:51,0.555s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/button_Log In""))",Chrome 113.0.0.0,,,2023-05-16 13:24:51,2023-05-16 13:24:52,0.598s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/span_Crews""))",Chrome 113.0.0.0,,,2023-05-16 13:24:52,2023-05-16 13:24:54,2.664s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/span_Team Members""))",Chrome 113.0.0.0,,,2023-05-16 13:24:54,2023-05-16 13:24:56,1.405s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down""))",Chrome 113.0.0.0,,,2023-05-16 13:24:56,2023-05-16 13:24:56,0.695s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/div_Primary Role""))",Chrome 113.0.0.0,,,2023-05-16 13:24:56,2023-05-16 13:24:58,1.609s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/label_Team Members""))",Chrome 113.0.0.0,,,2023-05-16 13:24:58,2023-05-16 13:24:59,0.761s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/button_Update Team Member""))",Chrome 113.0.0.0,,,2023-05-16 13:24:59,2023-05-16 13:24:59,0.585s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_LiveSust/div_Team member data updated successfully""), ""Team member data updated successfully"")",Chrome 113.0.0.0,,,2023-05-16 13:24:59,2023-05-16 13:25:01,2.081s,FAILED
+,,,,,,,
+Test Cases/Sprint 3/Archive team member,Chrome 113.0.0.0,,,2023-05-16 13:26:10,2023-05-16 13:26:32,22.405s,FAILED
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-16 13:26:10,2023-05-16 13:26:15,5.241s,PASSED
+"navigateToUrl(""https://livesust-test-web.optisolbusiness.com/login"")",Chrome 113.0.0.0,,,2023-05-16 13:26:15,2023-05-16 13:26:19,3.782s,PASSED
+maximizeWindow(),Chrome 113.0.0.0,,,2023-05-16 13:26:19,2023-05-16 13:26:19,0.163s,PASSED
+"setText(findTestObject(""Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address""), ""sachin@yopmail.com"")",Chrome 113.0.0.0,,,2023-05-16 13:26:19,2023-05-16 13:26:20,0.948s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password""), ""+p0xE3Qc9agwqAa4cuTULg=="")",Chrome 113.0.0.0,,,2023-05-16 13:26:20,2023-05-16 13:26:21,0.553s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/button_Log In""))",Chrome 113.0.0.0,,,2023-05-16 13:26:21,2023-05-16 13:26:21,0.551s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/span_Crews""))",Chrome 113.0.0.0,,,2023-05-16 13:26:21,2023-05-16 13:26:23,2.345s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/span_Team Members""))",Chrome 113.0.0.0,,,2023-05-16 13:26:23,2023-05-16 13:26:25,1.312s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/button_Active_btn-outline""))",Chrome 113.0.0.0,,,2023-05-16 13:26:25,2023-05-16 13:26:25,0.653s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/button_Archive""))",Chrome 113.0.0.0,,,2023-05-16 13:26:25,2023-05-16 13:26:27,1.492s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/button_Yes""))",Chrome 113.0.0.0,,,2023-05-16 13:26:27,2023-05-16 13:26:32,5.330s,FAILED
+,,,,,,,
+Test Cases/Sprint 3/Search with valid team member,Chrome 113.0.0.0,,,2023-05-16 13:26:32,2023-05-16 13:26:52,19.983s,PASSED
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-16 13:26:34,2023-05-16 13:26:39,4.896s,PASSED
+"navigateToUrl(""https://livesust-test-web.optisolbusiness.com/login"")",Chrome 113.0.0.0,,,2023-05-16 13:26:39,2023-05-16 13:26:42,3.792s,PASSED
+maximizeWindow(),Chrome 113.0.0.0,,,2023-05-16 13:26:43,2023-05-16 13:26:43,0.181s,PASSED
+"setText(findTestObject(""Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address""), ""Sachin@yopmail.com"")",Chrome 113.0.0.0,,,2023-05-16 13:26:43,2023-05-16 13:26:44,1.101s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password""), ""+p0xE3Qc9agwqAa4cuTULg=="")",Chrome 113.0.0.0,,,2023-05-16 13:26:44,2023-05-16 13:26:44,0.578s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/button_Log In""))",Chrome 113.0.0.0,,,2023-05-16 13:26:44,2023-05-16 13:26:45,0.537s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/span_Crews""))",Chrome 113.0.0.0,,,2023-05-16 13:26:45,2023-05-16 13:26:47,2.437s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/span_Team Members""))",Chrome 113.0.0.0,,,2023-05-16 13:26:47,2023-05-16 13:26:49,1.323s,PASSED
+"setText(findTestObject(""Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85""), ""season"")",Chrome 113.0.0.0,,,2023-05-16 13:26:49,2023-05-16 13:26:50,0.875s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_LiveSust/a_Season date""), 0)",Chrome 113.0.0.0,,,2023-05-16 13:26:50,2023-05-16 13:26:51,1.251s,PASSED
+closeBrowser(),Chrome 113.0.0.0,,,2023-05-16 13:26:51,2023-05-16 13:26:52,1.479s,PASSED
+,,,,,,,
+Test Cases/Sprint 3/Search with invalid team member,Chrome 113.0.0.0,,,2023-05-16 13:26:52,2023-05-16 13:27:12,19.360s,PASSED
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-16 13:26:53,2023-05-16 13:26:57,3.729s,PASSED
+"navigateToUrl(""https://livesust-test-web.optisolbusiness.com/login"")",Chrome 113.0.0.0,,,2023-05-16 13:26:57,2023-05-16 13:27:01,3.691s,PASSED
+maximizeWindow(),Chrome 113.0.0.0,,,2023-05-16 13:27:01,2023-05-16 13:27:01,0.158s,PASSED
+"setText(findTestObject(""Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address""), ""Sachin@yopmail.com"")",Chrome 113.0.0.0,,,2023-05-16 13:27:01,2023-05-16 13:27:02,1.029s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password""), ""+p0xE3Qc9agwqAa4cuTULg=="")",Chrome 113.0.0.0,,,2023-05-16 13:27:02,2023-05-16 13:27:02,0.566s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/button_Log In""))",Chrome 113.0.0.0,,,2023-05-16 13:27:02,2023-05-16 13:27:03,0.667s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/span_Crews""))",Chrome 113.0.0.0,,,2023-05-16 13:27:03,2023-05-16 13:27:06,2.546s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/span_Team Members""))",Chrome 113.0.0.0,,,2023-05-16 13:27:06,2023-05-16 13:27:07,1.351s,PASSED
+"setText(findTestObject(""Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85""), ""jghfskgj"")",Chrome 113.0.0.0,,,2023-05-16 13:27:07,2023-05-16 13:27:08,0.913s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/p_No Data Found""))",Chrome 113.0.0.0,,,2023-05-16 13:27:08,2023-05-16 13:27:09,1.285s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_LiveSust/p_No Data Found""))",Chrome 113.0.0.0,,,2023-05-16 13:27:09,2023-05-16 13:27:10,0.976s,PASSED
+closeBrowser(),Chrome 113.0.0.0,,,2023-05-16 13:27:10,2023-05-16 13:27:12,1.508s,PASSED

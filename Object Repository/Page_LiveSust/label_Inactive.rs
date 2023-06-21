@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Inactive</name>
+   <tag></tag>
+   <elementGuidId>c7781a0f-3f4d-4ad7-863f-3c3b81d29b83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-team']/div/div/div/ul/li[2]/app-multi-select/angular2-multiselect/div/div[2]/div[3]/div[3]/ul/li[2]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>1204cd57-847d-495e-b1aa-048d7724f85b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Inactive</value>
+      <webElementGuid>107b4124-9968-4b7c-b45c-0268cd940a7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-team&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;primary-table m-3&quot;]/ul[@class=&quot;list-inline mb-0 px-3 py-4&quot;]/li[@class=&quot;list-inline-item mb-2 mb-md-0&quot;]/app-multi-select[1]/angular2-multiselect[@class=&quot;custom-dropdown custom-dropdown-sm filter-select form-control position-relative ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;cuppa-dropdown&quot;]/div[@class=&quot;dropdown-list animated fadeIn tagToBody&quot;]/div[@class=&quot;list-area&quot;]/div[@class=&quot;ng-star-inserted&quot;]/ul[@class=&quot;lazyContainer&quot;]/li[@class=&quot;pure-checkbox ng-star-inserted&quot;]/label[1]</value>
+      <webElementGuid>8fa051a9-3dd6-4746-b167-9a2e63598702</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-team']/div/div/div/ul/li[2]/app-multi-select/angular2-multiselect/div/div[2]/div[3]/div[3]/ul/li[2]/label</value>
+      <webElementGuid>2d155ec9-e65d-4a6b-b6fa-2550a89be4ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[7]/following::label[1]</value>
+      <webElementGuid>86ae56b7-58a5-4899-8da6-c905740f295a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UnSelect All'])[2]/following::label[2]</value>
+      <webElementGuid>c439e97a-69d1-457d-9b27-dc2045082163</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Suspended'])[1]/preceding::label[1]</value>
+      <webElementGuid>5699c452-b8df-4ecb-adb8-5b5d8d58388a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Archived'])[7]/preceding::label[2]</value>
+      <webElementGuid>69c66ec0-1411-49f4-82e4-dc6d4407e030</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/ul/li[2]/app-multi-select/angular2-multiselect/div/div[2]/div[3]/div[3]/ul/li[2]/label</value>
+      <webElementGuid>7490d5ad-6bf9-4548-9864-51ab52e27ec3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Inactive' or . = 'Inactive')]</value>
+      <webElementGuid>aef6fc5e-2782-4fee-a8be-2ee9b5d7b478</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

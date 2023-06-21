@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Filter User</name>
+   <tag></tag>
+   <elementGuidId>69cc14ba-d1a1-4d66-bbf5-5aae951b2e2a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-all']/div/div/div/div/ul/li[3]/app-multi-select/angular2-multiselect/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>29da09e6-1d5c-4925-ad4e-0d9786c59966</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c-btn</value>
+      <webElementGuid>07f1b6ea-45dc-4dc0-a191-8824ab1d6e49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>5c8bdd6d-0246-4f69-8e1e-91025b55f805</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Filter User</value>
+      <webElementGuid>e7d172d3-d396-4b0b-b994-c4ba925d12fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-all&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;primary-table m-3&quot;]/div[@class=&quot;d-md-flex align-items-center justify-content-between pe-md-3 filter-container&quot;]/ul[@class=&quot;list-inline mb-0 px-md-3 py-4 d-md-flex&quot;]/li[@class=&quot;list-inline-item&quot;]/app-multi-select[1]/angular2-multiselect[@class=&quot;custom-dropdown custom-dropdown-sm filter-select form-control position-relative ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;cuppa-dropdown&quot;]/div[@class=&quot;selected-list&quot;]/div[@class=&quot;c-btn&quot;]</value>
+      <webElementGuid>e3fe6203-926b-4752-b34d-dcdcef9b7f00</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-all']/div/div/div/div/ul/li[3]/app-multi-select/angular2-multiselect/div/div/div</value>
+      <webElementGuid>49187565-66ea-4ddc-9f99-c49c15a1df92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Archived'])[2]/following::div[3]</value>
+      <webElementGuid>a93577a7-244c-4ca0-ba4f-5329a86c010b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inactive'])[2]/following::div[3]</value>
+      <webElementGuid>1fe58784-3f32-4c5f-b4ec-611251629942</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select All'])[2]/preceding::div[3]</value>
+      <webElementGuid>e088e232-47e0-426c-9ac5-4222bea158e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/app-multi-select/angular2-multiselect/div/div/div</value>
+      <webElementGuid>9e7ceb5c-6601-42a7-8ba8-c48e6e2ab734</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Filter User' or . = 'Filter User')]</value>
+      <webElementGuid>d05104a0-1bb0-4913-8133-16351bee0808</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

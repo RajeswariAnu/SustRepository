@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Crews</name>
+   <tag></tag>
+   <elementGuidId>fceb3169-d11c-49ce-b17a-ec9e4a33e9df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Estimates'])[1]/following::span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d1678fde-9f19-4740-8055-c864b1f1db14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-txt</value>
+      <webElementGuid>58971522-da51-4c48-ac78-b9a70b7d40e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Crews</value>
+      <webElementGuid>c6b28df2-e24b-4e63-b335-3d4fce2961ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-app-layout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;admin-layout&quot;]/aside[@class=&quot;own-sidemenu-main show&quot;]/app-sidemenu[1]/aside[@class=&quot;sidemenu-main menu-opened&quot;]/ul[@class=&quot;list-group&quot;]/li[@class=&quot;list-group-item&quot;]/a[1]/span[@class=&quot;menu-txt&quot;]</value>
+      <webElementGuid>54cfd62a-e0c4-4e5e-97c9-4bf8557b6da2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Estimates'])[1]/following::span[2]</value>
+      <webElementGuid>413c8625-3fba-4679-b3f8-c7a57399e4d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scheduling'])[1]/following::span[4]</value>
+      <webElementGuid>c5e30bb9-eed6-4b6d-99f2-479e740f80de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Equipment'])[1]/preceding::span[2]</value>
+      <webElementGuid>6fd11c5e-19a4-4764-a211-04c4c551f52e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invoices'])[1]/preceding::span[4]</value>
+      <webElementGuid>96c1bcb3-a87b-4adb-94da-9df3a6bda935</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Crews']/parent::*</value>
+      <webElementGuid>d17e0804-48be-4910-82ad-87602d547878</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a/span</value>
+      <webElementGuid>d91202fb-6267-43dc-a0d5-d6e7f967b355</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Crews' or . = 'Crews')]</value>
+      <webElementGuid>83b31f29-b68c-45d8-bffc-58f1e2628bf8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

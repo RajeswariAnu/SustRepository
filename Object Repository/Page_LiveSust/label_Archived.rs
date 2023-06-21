@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Archived</name>
+   <tag></tag>
+   <elementGuidId>5323704d-e976-4cee-8213-d9b8ca168005</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-group']/app-equipment-group/div/div/div/ul/li[2]/app-multi-select/angular2-multiselect/div/div[2]/div[3]/div[3]/ul/li[3]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>6d16e73b-b7bc-4921-a41a-ad099f11eeba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Archived</value>
+      <webElementGuid>5a456adc-70f2-4ad2-9e06-ae78b14b00c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-group&quot;)/app-equipment-group[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;primary-table m-3&quot;]/ul[@class=&quot;list-inline mb-0 px-3 py-4&quot;]/li[@class=&quot;list-inline-item&quot;]/app-multi-select[1]/angular2-multiselect[@class=&quot;custom-dropdown custom-dropdown-sm filter-select form-control position-relative ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;cuppa-dropdown&quot;]/div[@class=&quot;dropdown-list animated fadeIn tagToBody&quot;]/div[@class=&quot;list-area&quot;]/div[@class=&quot;ng-star-inserted&quot;]/ul[@class=&quot;lazyContainer&quot;]/li[@class=&quot;pure-checkbox ng-star-inserted&quot;]/label[1]</value>
+      <webElementGuid>b6eb904a-0c38-4c90-9595-20a1a32ffd24</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-group']/app-equipment-group/div/div/div/ul/li[2]/app-multi-select/angular2-multiselect/div/div[2]/div[3]/div[3]/ul/li[3]/label</value>
+      <webElementGuid>d9a1e2b0-dbb8-4f63-833b-004f6eccd29d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inactive'])[2]/following::label[1]</value>
+      <webElementGuid>0e89bdc6-e89d-4c78-82f8-52ad96e63968</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[8]/following::label[2]</value>
+      <webElementGuid>fad75ac4-8938-47df-869d-e9208b3e4335</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Equipment Group'])[1]/preceding::label[1]</value>
+      <webElementGuid>a0ba7b06-b2ed-4f6e-9d65-64a34631c582</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Equipment Group Name'])[1]/preceding::label[1]</value>
+      <webElementGuid>595de31c-908f-40e9-aa71-a540b918eb38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-equipment-group/div/div/div/ul/li[2]/app-multi-select/angular2-multiselect/div/div[2]/div[3]/div[3]/ul/li[3]/label</value>
+      <webElementGuid>712af8dd-ab20-45cb-9774-c34865e2cd41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Archived' or . = 'Archived')]</value>
+      <webElementGuid>c9e0337b-147a-48e9-9df1-739bb1acd53d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

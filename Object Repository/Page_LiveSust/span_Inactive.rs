@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Inactive</name>
+   <tag></tag>
+   <elementGuidId>0b3923ca-912a-4bfb-a4e4-126e79a759ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-team']/div/div/div/div/table/tbody/tr/td[6]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#nav-team > div.row > div.col-12 > div.primary-table.m-3 > div.table-responsive > table.table.mb-0 > tbody.ng-star-inserted > tr.c-pointer.ng-star-inserted > td.text-center > span.active-status.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>eff43e0b-e22f-40d4-844d-c005e952972c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>active-status ng-star-inserted</value>
+      <webElementGuid>97d1994d-6554-47ae-a382-179f91c17c70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Inactive</value>
+      <webElementGuid>ed628fbb-13c7-423d-bbe2-b656fe2204b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-team&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;primary-table m-3&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table mb-0&quot;]/tbody[@class=&quot;ng-star-inserted&quot;]/tr[@class=&quot;c-pointer ng-star-inserted&quot;]/td[@class=&quot;text-center&quot;]/span[@class=&quot;active-status ng-star-inserted&quot;]</value>
+      <webElementGuid>da6f1c26-6faf-4e71-921b-06dcbb014ca3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-team']/div/div/div/div/table/tbody/tr/td[6]/span</value>
+      <webElementGuid>bd6a0ce1-dba4-45b6-9814-e0a83a1535fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First Inactive'])[1]/following::span[1]</value>
+      <webElementGuid>f24a9ff7-95b4-4fb7-9b96-db0669ab7f96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[2]/following::span[1]</value>
+      <webElementGuid>adba7dec-3c81-44c1-a889-a4d9ac51bb5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Newone User'])[1]/preceding::span[1]</value>
+      <webElementGuid>b5577aec-5e21-4fc5-b62f-31c66e8ada83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inactive'])[5]/preceding::span[1]</value>
+      <webElementGuid>cabf5002-178e-47ee-a2bd-04efe3ae3538</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/span</value>
+      <webElementGuid>54e48d0d-141b-4107-8dce-42191b84e0b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Inactive' or . = 'Inactive')]</value>
+      <webElementGuid>23e98584-f7ae-45dd-98c8-9dfb7fa7fa0c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

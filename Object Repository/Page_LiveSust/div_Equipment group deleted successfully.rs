@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Equipment group deleted successfully</name>
+   <tag></tag>
+   <elementGuidId>9169eba0-3af0-40ba-8963-c73fb141799d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ng-tns-c45-1.toast-message.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='toast-container']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a984d00d-4f6d-47ba-9f4f-a9d21325e137</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>43b7c8f9-ee13-45f0-bf5d-d98d1e645725</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c45-1 toast-message ng-star-inserted</value>
+      <webElementGuid>bf98bfd0-78f5-4549-a447-1a8372e7ffb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Equipment group deleted successfully</value>
+      <webElementGuid>06bd2a1a-b44c-484c-8ffb-d63d8706e5e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Equipment group deleted successfully </value>
+      <webElementGuid>4feb8ada-4cf5-4cc5-ae20-7ea89836ce9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toast-container&quot;)/div[@class=&quot;ng-tns-c45-1 ng-star-inserted ng-trigger ng-trigger-flyInOut ngx-toastr toast-success&quot;]/div[@class=&quot;ng-tns-c45-1 toast-message ng-star-inserted&quot;]</value>
+      <webElementGuid>3024d9c3-cf9e-4082-b292-b53daf853a8d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='toast-container']/div/div</value>
+      <webElementGuid>55f31eac-112a-424b-bc1e-d2ba2767a611</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='page'])[12]/following::div[7]</value>
+      <webElementGuid>b887489e-e7dd-40c9-84be-b53ca12d96e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Equipment group deleted successfully']/parent::*</value>
+      <webElementGuid>6e4ad447-0993-41e6-85c5-45b299585dc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div</value>
+      <webElementGuid>ca7542f5-ce43-474a-9ea4-7eca24cba92e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Equipment group deleted successfully ' or . = ' Equipment group deleted successfully ')]</value>
+      <webElementGuid>422c7a37-6998-48ae-ab60-1ef54863760e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

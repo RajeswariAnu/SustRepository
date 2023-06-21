@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Crew NameVaniiiiii Vvhjhuk hgjhuSelect _b5400d</name>
+   <tag></tag>
+   <elementGuidId>2b7998f0-929c-4bed-af32-ac25ceee64c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='crewForm']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.row.align-items-start.justify-content-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dc297ee7-9306-4454-ad4d-af3584a45433</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row align-items-start justify-content-center</value>
+      <webElementGuid>ac98edb5-c55c-4dad-9bab-23ba62243689</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Crew Name*Vaniiiiii Vvhjhuk hgjhuSelect AllSelect AllVaniiiiii Vvhjhuk hgjhu ncxv kjvjkvnjdSeason datedjk vnkjsfhvkbhjDiv njnkMaping MapMap MAnu Rajnajfa dfdjffjg bmdgmxyz abcName team team nameanuuu RrSurya SChris Whitefsmklgmlk fnknkNew NameNew NameNew NameChrissss DTest UserTest UserTest UserTest UserNewone UserNewone UserNewone Usercnjdfk mfn,vani MukiMuthu NAnu Rsunantha Srasika Hncdsf ndsjfnskffvhfj dfjsdfkvani ndjcndsjPriya dsnfsdnfjanu adnfmdanmfd v nvmCrew ColorsKey SpecialtiesNotes</value>
+      <webElementGuid>790e7fb8-2e3e-45a6-9aee-acb23639d0c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;crewForm&quot;)/div[@class=&quot;row align-items-start justify-content-center&quot;]</value>
+      <webElementGuid>49b3cb5e-db4f-4373-b864-6e0198f9f976</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='crewForm']/div</value>
+      <webElementGuid>6f6c623c-34ee-4cb3-a67b-268fb544ecf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Archived'])[12]/following::div[2]</value>
+      <webElementGuid>4e2a8bf8-69af-4870-8f09-2bae25c610cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inactive'])[3]/following::div[2]</value>
+      <webElementGuid>a21bbed9-f7b8-4290-87cd-0009c812403f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div</value>
+      <webElementGuid>d521f718-52f6-4389-b15f-5936ced4bf5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Crew Name*Vaniiiiii Vvhjhuk hgjhuSelect AllSelect AllVaniiiiii Vvhjhuk hgjhu ncxv kjvjkvnjdSeason datedjk vnkjsfhvkbhjDiv njnkMaping MapMap MAnu Rajnajfa dfdjffjg bmdgmxyz abcName team team nameanuuu RrSurya SChris Whitefsmklgmlk fnknkNew NameNew NameNew NameChrissss DTest UserTest UserTest UserTest UserNewone UserNewone UserNewone Usercnjdfk mfn,vani MukiMuthu NAnu Rsunantha Srasika Hncdsf ndsjfnskffvhfj dfjsdfkvani ndjcndsjPriya dsnfsdnfjanu adnfmdanmfd v nvmCrew ColorsKey SpecialtiesNotes' or . = 'Crew Name*Vaniiiiii Vvhjhuk hgjhuSelect AllSelect AllVaniiiiii Vvhjhuk hgjhu ncxv kjvjkvnjdSeason datedjk vnkjsfhvkbhjDiv njnkMaping MapMap MAnu Rajnajfa dfdjffjg bmdgmxyz abcName team team nameanuuu RrSurya SChris Whitefsmklgmlk fnknkNew NameNew NameNew NameChrissss DTest UserTest UserTest UserTest UserNewone UserNewone UserNewone Usercnjdfk mfn,vani MukiMuthu NAnu Rsunantha Srasika Hncdsf ndsjfnskffvhfj dfjsdfkvani ndjcndsjPriya dsnfsdnfjanu adnfmdanmfd v nvmCrew ColorsKey SpecialtiesNotes')]</value>
+      <webElementGuid>d659e993-afdd-451f-a23d-2890629904b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

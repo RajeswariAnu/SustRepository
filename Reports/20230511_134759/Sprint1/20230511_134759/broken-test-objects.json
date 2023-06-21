@@ -1,0 +1,64 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down",
+      "brokenLocator": "//form[@id\u003d\u0027changePasswordForm\u0027]/div/app-input[2]/div/div/em",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//app-input/div/div/em",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230511_134759/Sprint1/20230511_134759/Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/input_Having trouble logging in_otp_0_sel5c_9fb327",
+      "brokenLocator": "//input[@id\u003d\u0027otp_0_sel5cq0ghmlhetymsk\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230511_134759/Sprint1/20230511_134759/Object Repository/Page_LiveSust/input_Having trouble logging in_otp_0_sel5c_9fb327_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/input_Having trouble logging in_otp_1_sel5c_45af05",
+      "brokenLocator": "//input[@id\u003d\u0027otp_1_sel5cq0ghmlhetymsk\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230511_134759/Sprint1/20230511_134759/Object Repository/Page_LiveSust/input_Having trouble logging in_otp_1_sel5c_45af05_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/input_Having trouble logging in_otp_2_sel5c_195f70",
+      "brokenLocator": "//input[@id\u003d\u0027otp_2_sel5cq0ghmlhetymsk\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230511_134759/Sprint1/20230511_134759/Object Repository/Page_LiveSust/input_Having trouble logging in_otp_2_sel5c_195f70_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/input_Having trouble logging in_otp_3_sel5c_df0db2",
+      "brokenLocator": "//input[@id\u003d\u0027otp_3_sel5cq0ghmlhetymsk\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[4]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230511_134759/Sprint1/20230511_134759/Object Repository/Page_LiveSust/input_Having trouble logging in_otp_3_sel5c_df0db2_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/input_Enter New Password_Enter Password",
+      "brokenLocator": "//input[@id\u003d\u0027Enter Password\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230511_134759/Sprint1/20230511_134759/Object Repository/Page_LiveSust/input_Enter New Password_Enter Password_position.png"
+    }
+  ]
+}

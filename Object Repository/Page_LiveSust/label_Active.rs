@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Active</name>
+   <tag></tag>
+   <elementGuidId>4e688d23-ad4a-4b25-9b90-e2f05c2df250</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-crews']/div/div/div/ul/li[2]/app-multi-select/angular2-multiselect/div/div[2]/div[3]/div[3]/ul/li/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.pure-checkbox.ng-star-inserted > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>64ef1df7-065c-49c3-88ae-3f856171d463</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Active</value>
+      <webElementGuid>95925f18-0b7f-401a-ad5a-eb3d2111ac68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-crews&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;primary-table m-3&quot;]/ul[@class=&quot;list-inline mb-0 px-3 py-4&quot;]/li[@class=&quot;list-inline-item mb-2 mb-md-0&quot;]/app-multi-select[1]/angular2-multiselect[@class=&quot;custom-dropdown custom-dropdown-sm filter-select form-control position-relative ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;cuppa-dropdown&quot;]/div[@class=&quot;dropdown-list animated fadeIn tagToBody&quot;]/div[@class=&quot;list-area&quot;]/div[@class=&quot;ng-star-inserted&quot;]/ul[@class=&quot;lazyContainer&quot;]/li[@class=&quot;pure-checkbox ng-star-inserted&quot;]/label[1]</value>
+      <webElementGuid>31e9cc08-2b50-49c3-af84-d2da65031486</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-crews']/div/div/div/ul/li[2]/app-multi-select/angular2-multiselect/div/div[2]/div[3]/div[3]/ul/li/label</value>
+      <webElementGuid>b3656f10-e4eb-4962-a29f-3e301da75b41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UnSelect All'])[1]/following::label[1]</value>
+      <webElementGuid>1a993b88-a687-4bbc-a79b-10b2b12e931f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select All'])[1]/following::label[1]</value>
+      <webElementGuid>c1d42d83-c24d-4926-9afb-b01ea5589666</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inactive'])[1]/preceding::label[1]</value>
+      <webElementGuid>ff4afd8e-730b-4597-b84e-34b6bd92396a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Archived'])[1]/preceding::label[2]</value>
+      <webElementGuid>3e9c3131-03b0-49df-8d55-c33b8e05bb4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Active']/parent::*</value>
+      <webElementGuid>add51d69-f662-4643-b885-839b493c3995</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/label</value>
+      <webElementGuid>cdd887cb-8ed8-45ff-b176-4b97dbb8f095</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Active' or . = 'Active')]</value>
+      <webElementGuid>6c300a0d-be08-47c3-a22a-9406566aafe5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

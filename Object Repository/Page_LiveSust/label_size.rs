@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_size</name>
+   <tag></tag>
+   <elementGuidId>3750133c-1ef6-413e-a44e-cc203ffe1117</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='equipmentGroupForm']/div/div[2]/angular2-multiselect/div/div[2]/div[3]/div[4]/ul/li[2]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>d7a6337e-838d-437f-813b-562f2a272c38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>size</value>
+      <webElementGuid>2c9f4f70-d31c-436d-a7ca-f0ac1f6409cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;equipmentGroupForm&quot;)/div[@class=&quot;row align-items-start justify-content-center&quot;]/div[@class=&quot;col-12 col-md-6 ps-4&quot;]/angular2-multiselect[@class=&quot;custom-dropdown form-control mb-3 ng-valid ng-touched ng-dirty&quot;]/div[@class=&quot;cuppa-dropdown&quot;]/div[@class=&quot;dropdown-list animated fadeIn tagToBody&quot;]/div[@class=&quot;list-area&quot;]/div[@class=&quot;ng-star-inserted&quot;]/ul[@class=&quot;lazyContainer&quot;]/li[@class=&quot;pure-checkbox ng-star-inserted&quot;]/label[1]</value>
+      <webElementGuid>54366720-c5d7-4346-8f88-66be5b87ca55</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='equipmentGroupForm']/div/div[2]/angular2-multiselect/div/div[2]/div[3]/div[4]/ul/li[2]/label</value>
+      <webElementGuid>d473f78a-33de-4608-90a8-e0f087a3c5e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='nAMEmcm'])[3]/following::label[1]</value>
+      <webElementGuid>a3ddb0f2-48ce-4748-9ce5-2a29ac8b9e67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select All'])[4]/following::label[2]</value>
+      <webElementGuid>c1a454b1-94e8-432d-8a54-ea6da95faf67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Num'])[2]/preceding::label[1]</value>
+      <webElementGuid>a34c248a-2579-44ab-a463-3a24b234cb75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='vfmv'])[2]/preceding::label[2]</value>
+      <webElementGuid>f54ea8ea-3178-41ff-82ac-f36acb7428ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/ul/li[2]/label</value>
+      <webElementGuid>02888a47-c8a1-4f20-b4e8-7c3404ca97a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'size' or . = 'size')]</value>
+      <webElementGuid>316c4cfb-ee32-4e71-a0de-38dc731b427a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

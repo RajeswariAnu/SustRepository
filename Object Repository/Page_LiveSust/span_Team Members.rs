@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Team Members</name>
+   <tag></tag>
+   <elementGuidId>30fe7e5d-8646-490a-9434-c6942c7fc14e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='nav-team-tab']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#nav-team-tab > span.pb-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bdd84f36-d6ed-4d30-bd3f-ad287d01289d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pb-2</value>
+      <webElementGuid>e63fb5d4-51d7-4fbd-8e7a-5bab58ef2856</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Team Members</value>
+      <webElementGuid>da53a463-6bd9-4e21-b641-d02641a08c39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-team-tab&quot;)/span[@class=&quot;pb-2&quot;]</value>
+      <webElementGuid>674c6b84-0148-4611-9f13-e4ee7e0c5186</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='nav-team-tab']/span</value>
+      <webElementGuid>67221c17-b0ba-488e-930f-693290af8c46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Crews'])[3]/following::span[1]</value>
+      <webElementGuid>1ca0fac1-40a4-4bac-bfbe-390fb8a7d58c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Crews'])[2]/following::span[2]</value>
+      <webElementGuid>73765754-9be7-4c26-89c0-fb12bda4dc02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter Status'])[1]/preceding::span[3]</value>
+      <webElementGuid>4066d2db-2553-46a1-b8c1-43a13e465828</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select All'])[1]/preceding::span[5]</value>
+      <webElementGuid>aea5d3fa-61ac-4ac3-a705-04735215667a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Team Members']/parent::*</value>
+      <webElementGuid>ba20088a-45fa-4a1f-b9a9-f478adbdb5bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>9504f39f-bbc6-4f86-bf6b-92ae97337a06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Team Members' or . = 'Team Members')]</value>
+      <webElementGuid>ff04838b-a2f9-42cb-99f4-aee63744d32f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

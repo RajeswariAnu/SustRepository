@@ -1,0 +1,54 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/li_Powered Equipment",
+      "brokenLocator": "//form[@id\u003d\u0027equipmentForm\u0027]/div/div/app-select/div/ul/li",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*/text()[normalize-space(.)\u003d\u0027Powered Equipment\u0027]/parent::*",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230602_125240/Sprint 4/20230602_125240/Object Repository/Page_LiveSust/li_Powered Equipment_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down",
+      "brokenLocator": "//div[@id\u003d\u0027nav-equipment\u0027]/app-equipment/div/div/div/div/table/tbody/tr[2]/td[6]/button[2]/em",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//app-input/div/div/em",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230602_125240/Sprint 4/20230602_125240/Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down",
+      "brokenLocator": "//div[@id\u003d\u0027nav-equipment\u0027]/app-equipment/div/div/div/div/table/tbody/tr[2]/td[6]/button[2]/em",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//button/em",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230602_125240/Sprint 4/20230602_125240/Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85",
+      "brokenLocator": "(//input[@type\u003d\u0027text\u0027])[8]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(//input[@type\u003d\u0027text\u0027])[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85",
+      "brokenLocator": "(//input[@type\u003d\u0027text\u0027])[8]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(//input[@type\u003d\u0027text\u0027])[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230602_125240"
+    }
+  ]
+}

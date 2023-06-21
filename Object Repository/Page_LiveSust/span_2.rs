@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_2</name>
+   <tag></tag>
+   <elementGuidId>3879070c-e08b-493e-b7f7-ae6e448f047e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sat'])[1]/following::span[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.is-highlighted.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>acb83140-d75e-4641-9f80-ac0b26b883c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>is-highlighted ng-star-inserted</value>
+      <webElementGuid>5df16539-9bba-43bb-b261-2b09eef26761</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>973afc02-0d2f-403b-903a-71f12a66e907</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-tns-0-1 modal-open&quot;]/bs-datepicker-container[@class=&quot;bottom ng-tns-c80-2 ng-star-inserted&quot;]/div[@class=&quot;bs-datepicker ng-tns-c80-2 theme-green ng-star-inserted&quot;]/div[@class=&quot;bs-datepicker-container ng-tns-c80-2 ng-trigger ng-trigger-datepickerAnimation&quot;]/div[@class=&quot;bs-calendar-container ng-tns-c80-2&quot;]/div[@class=&quot;bs-media-container ng-tns-c80-2 ng-star-inserted&quot;]/bs-days-calendar-view[@class=&quot;ng-tns-c80-2 ng-star-inserted&quot;]/bs-calendar-layout[1]/div[@class=&quot;bs-datepicker-body&quot;]/table[@class=&quot;days weeks&quot;]/tbody[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;ng-star-inserted&quot;]/span[@class=&quot;is-highlighted ng-star-inserted&quot;]</value>
+      <webElementGuid>33008f19-c516-4d93-9846-2466153d9038</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sat'])[1]/following::span[4]</value>
+      <webElementGuid>012c3d9c-e241-47c3-a8b7-abf160be24d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fri'])[1]/following::span[4]</value>
+      <webElementGuid>8efcb06a-5f1e-464f-81a9-86a4bd3acd1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr/td[4]/span</value>
+      <webElementGuid>5bd49857-0abd-4252-82ae-103d03e5a2c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '2' or . = '2')]</value>
+      <webElementGuid>7d5a5253-5ea2-4882-8f54-1c07ead56964</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

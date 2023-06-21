@@ -1,0 +1,114 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/button_Add Crew",
+      "brokenLocator": "//div[@id\u003d\u0027nav-crews\u0027]/div/div/div/ul/li[3]/button",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Archived\u0027])[1]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230612_185415/Sprint3/20230612_185415/Object Repository/Page_LiveSust/button_Add Crew_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85",
+      "brokenLocator": "(//input[@type\u003d\u0027text\u0027])[8]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(//input[@type\u003d\u0027text\u0027])[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230612_185415"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down",
+      "brokenLocator": "//div[@id\u003d\u0027nav-equipment\u0027]/app-equipment/div/div/div/div/table/tbody/tr[2]/td[6]/button[2]/em",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//button/em",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230612_185415/Sprint3/20230612_185415/Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/p_No Data Found",
+      "brokenLocator": "//div[@id\u003d\u0027nav-equipment\u0027]/app-equipment/div/div/div/div/table/tbody/tr/td/p",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Action\u0027])[1]/following::p[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230612_185415/Sprint3/20230612_185415/Object Repository/Page_LiveSust/p_No Data Found_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/div_Filter Status",
+      "brokenLocator": "//div[@id\u003d\u0027nav-equipment\u0027]/app-equipment/div/div/div/ul/li[2]/app-multi-select/angular2-multiselect/div/div/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Select All\u0027])[1]/preceding::div[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230612_185415/Sprint3/20230612_185415/Object Repository/Page_LiveSust/div_Filter Status_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/label_Active",
+      "brokenLocator": "//div[@id\u003d\u0027nav-crews\u0027]/div/div/div/ul/li[2]/app-multi-select/angular2-multiselect/div/div[2]/div[3]/div[3]/ul/li/label",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027UnSelect All\u0027])[1]/following::label[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230612_185415/Sprint3/20230612_185415/Object Repository/Page_LiveSust/label_Active_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/ul_ActiveSelect AllUnSelect AllActiveInacti_00ceea",
+      "brokenLocator": "//div[@id\u003d\u0027nav-crews\u0027]/div/div/div/ul",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Team Members\u0027])[1]/following::ul[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230612_185415/Sprint3/20230612_185415/Object Repository/Page_LiveSust/ul_ActiveSelect AllUnSelect AllActiveInacti_00ceea_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/button_Add Team Member",
+      "brokenLocator": "//div[@id\u003d\u0027nav-team\u0027]/div/div/div/ul/li[3]/button",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Archived\u0027])[7]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230612_185415/Sprint3/20230612_185415/Object Repository/Page_LiveSust/button_Add Team Member_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/button_Continue",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Cancel\u0027])[1]/following::button[1]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[3]/button[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230612_185415/Sprint3/20230612_185415/Object Repository/Page_LiveSust/button_Continue_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/button_Active_btn-outline",
+      "brokenLocator": "//div[@id\u003d\u0027nav-equipment\u0027]/app-equipment/div/div/div/div/table/tbody/tr[5]/td[6]/button[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Active\u0027])[5]/following::button[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_LiveSust/button_Active_btn-outline",
+      "brokenLocator": "//div[@id\u003d\u0027nav-equipment\u0027]/app-equipment/div/div/div/div/table/tbody/tr[5]/td[6]/button[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Active\u0027])[5]/following::button[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230612_185415"
+    }
+  ]
+}

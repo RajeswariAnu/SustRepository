@@ -1,0 +1,2118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Sprint 4" time="3505.124" tests="13" failures="6" errors="0">
+   <testsuite name="Sprint 4" tests="13" failures="6" errors="0" time="3505.124" skipped="0" timestamp="2023-06-02 12:53:08" hostname="rajeswari.r - Laptop-OBS-62.optisolbusiness.com" id="Test Suites/Sprint 4">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\rajeswari.r\\Katalon Studio\\Livesust\\Reports\\20230602_125240\\Sprint 4\\20230602_125240"/>
+         <property name="logFiles" value="C:\\Users\\rajeswari.r\\Katalon Studio\\Livesust\\Reports\\20230602_125240\\Sprint 4\\20230602_125240\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\rajeswari.r\\Katalon Studio\\Livesust\\Reports\\20230602_125240\\Sprint 4\\20230602_125240\\1685690702014.png, C:\\Users\\rajeswari.r\\Katalon Studio\\Livesust\\Reports\\20230602_125240\\Sprint 4\\20230602_125240\\1685690808667.png, C:\\Users\\rajeswari.r\\Katalon Studio\\Livesust\\Reports\\20230602_125240\\Sprint 4\\20230602_125240\\1685690912169.png, C:\\Users\\rajeswari.r\\Katalon Studio\\Livesust\\Reports\\20230602_125240\\Sprint 4\\20230602_125240\\1685691026758.png, C:\\Users\\rajeswari.r\\Katalon Studio\\Livesust\\Reports\\20230602_125240\\Sprint 4\\20230602_125240\\1685691188003.png, C:\\Users\\rajeswari.r\\Katalon Studio\\Livesust\\Reports\\20230602_125240\\Sprint 4\\20230602_125240\\1685691272554.png, C:\\Users\\rajeswari.r\\Katalon Studio\\Livesust\\Reports\\20230602_125240\\Sprint 4\\20230602_125240\\1685691356599.png, C:\\Users\\rajeswari.r\\Katalon Studio\\Livesust\\Reports\\20230602_125240\\Sprint 4\\20230602_125240\\1685691438977.png, C:\\Users\\rajeswari.r\\Katalon Studio\\Livesust\\Reports\\20230602_125240\\Sprint 4\\20230602_125240\\1685691524775.png, C:\\Users\\rajeswari.r\\Katalon Studio\\Livesust\\Reports\\20230602_125240\\Sprint 4\\20230602_125240\\1685693192536.png, C:\\Users\\rajeswari.r\\Katalon Studio\\Livesust\\Reports\\20230602_125240\\Sprint 4\\20230602_125240\\1685693290854.png, C:\\Users\\rajeswari.r\\Katalon Studio\\Livesust\\Reports\\20230602_125240\\Sprint 4\\20230602_125240\\1685693375249.png, C:\\Users\\rajeswari.r\\Katalon Studio\\Livesust\\Reports\\20230602_125240\\Sprint 4\\20230602_125240\\1685693429318.png, C:\\Users\\rajeswari.r\\Katalon Studio\\Livesust\\Reports\\20230602_125240\\Sprint 4\\20230602_125240\\1685693525791.png, C:\\Users\\rajeswari.r\\Katalon Studio\\Livesust\\Reports\\20230602_125240\\Sprint 4\\20230602_125240\\1685693579047.png, C:\\Users\\rajeswari.r\\Katalon Studio\\Livesust\\Reports\\20230602_125240\\Sprint 4\\20230602_125240\\1685693629431.png, C:\\Users\\rajeswari.r\\Katalon Studio\\Livesust\\Reports\\20230602_125240\\Sprint 4\\20230602_125240\\1685693676842.png, C:\\Users\\rajeswari.r\\Katalon Studio\\Livesust\\Reports\\20230602_125240\\Sprint 4\\20230602_125240\\1685693723783.png, C:\\Users\\rajeswari.r\\Katalon Studio\\Livesust\\Reports\\20230602_125240\\Sprint 4\\20230602_125240\\1685693771124.png, C:\\Users\\rajeswari.r\\Katalon Studio\\Livesust\\Reports\\20230602_125240\\Sprint 4\\20230602_125240\\1685694044729.png, C:\\Users\\rajeswari.r\\Katalon Studio\\Livesust\\Reports\\20230602_125240\\Sprint 4\\20230602_125240\\1685694061272.png, C:\\Users\\rajeswari.r\\Katalon Studio\\Livesust\\Reports\\20230602_125240\\Sprint 4\\20230602_125240\\1685694077708.png, C:\\Users\\rajeswari.r\\Katalon Studio\\Livesust\\Reports\\20230602_125240\\Sprint 4\\20230602_125240\\1685694093818.png"/>
+         <property name="hostName" value="rajeswari.r - Laptop-OBS-62.optisolbusiness.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.5.208"/>
+         <property name="browser" value="Chrome 113.0.0.0"/>
+         <property name="hostAddress" value="172.31.98.38"/>
+         <property name="sessionId" value="cdce77c5e6dae217c49baa76ec7f8220"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Sprint 4/Add equip" time="114.724" classname="Test Cases/Sprint 4/Add equip" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Sprint 4/Add equip FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to set text 'New EQuips' of object 'Object Repository/Page_LiveSust/input_No_Name'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:980)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$2.call(Unknown Source)
+	at Add equip.run(Add equip:42)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685690560962.run(TempTestSuite1685690560962.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_LiveSust/input_No_Name' located by '//input[@id='Name']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:51)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+"/>
+         <system-out><![CDATA[2023-06-02 12:58:32 - [TEST_CASE][FAILED] - Test Cases/Sprint 4/Add equip: Test Cases/Sprint 4/Add equip FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to set text 'New EQuips' of object 'Object Repository/Page_LiveSust/input_No_Name'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:980)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$2.call(Unknown Source)
+	at Add equip.run(Add equip:42)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685690560962.run(TempTestSuite1685690560962.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_LiveSust/input_No_Name' located by '//input[@id='Name']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:51)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+
+
+2023-06-02 12:58:32 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-06-02 12:58:32 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-06-02 12:58:34 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-06-02 12:58:34 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-06-02 12:58:38 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-06-02 12:58:38 - [TEST_STEP][PASSED] - navigateToUrl("https://livesust-test-web.optisolbusiness.com/login"): Navigate to 'https://livesust-test-web.optisolbusiness.com/login' successfully
+
+2023-06-02 12:58:42 - [MESSAGE][PASSED] - Navigate to 'https://livesust-test-web.optisolbusiness.com/login' successfully
+
+2023-06-02 12:58:42 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-06-02 12:58:42 - [MESSAGE][PASSED] - Current window maximized
+
+2023-06-02 12:58:42 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address"), "Sachin@yopmail.com"): Text 'Sachin@yopmail.com' is set on object 'Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address'
+
+2023-06-02 12:58:43 - [MESSAGE][PASSED] - Text 'Sachin@yopmail.com' is set on object 'Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address'
+
+2023-06-02 12:58:43 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password"), "+p0xE3Qc9agwqAa4cuTULg=="): Text ****** has been set on object 'Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password'
+
+2023-06-02 12:58:44 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password'
+
+2023-06-02 12:58:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/button_Log In")): Object: 'Object Repository/Page_LiveSust/button_Log In' is clicked on
+
+2023-06-02 12:58:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/button_Log In' is clicked on
+
+2023-06-02 12:58:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/span_Equipment")): Object: 'Object Repository/Page_LiveSust/span_Equipment' is clicked on
+
+2023-06-02 12:58:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/span_Equipment' is clicked on
+
+2023-06-02 12:58:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/button_Add Equipment")): Object: 'Object Repository/Page_LiveSust/button_Add Equipment' is clicked on
+
+2023-06-02 12:58:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/button_Add Equipment' is clicked on
+
+2023-06-02 12:58:48 - [TEST_STEP][PASSED] - click(findTestObject("Page_LiveSust/button_Equipment Type")): Object: 'Object Repository/Page_LiveSust/button_Equipment Type' is clicked on
+
+2023-06-02 12:58:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/button_Equipment Type' is clicked on
+
+2023-06-02 12:58:50 - [TEST_STEP][PASSED] - click(findTestObject("Page_LiveSust/li_Powered Equipment")): Object: 'Object Repository/Page_LiveSust/li_Powered Equipment' is clicked on
+
+2023-06-02 12:59:21 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //form[@id='equipmentForm']/div/div/app-select/div/ul/li'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-06-02 12:59:21 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_LiveSust/li_Powered Equipment'. Try using Self-healing.
+
+2023-06-02 12:59:21 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_LiveSust/li_Powered Equipment' was broken. Propose an alternative one: '//*/text()[normalize-space(.)='Powered Equipment']/parent::*'.
+
+2023-06-02 12:59:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/li_Powered Equipment' is clicked on
+
+2023-06-02 12:59:21 - [TEST_STEP][PASSED] - delay(20): Delayed 20 second(s)
+
+2023-06-02 12:59:41 - [MESSAGE][PASSED] - Delayed 20 second(s)
+
+2023-06-02 12:59:41 - [TEST_STEP][FAILED] - setText(findTestObject("Object Repository/Page_LiveSust/input_No_Name"), "New EQuips"): Unable to set text 'New EQuips' of object 'Object Repository/Page_LiveSust/input_No_Name' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to set text 'New EQuips' of object 'Object Repository/Page_LiveSust/input_No_Name'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:980)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$2.call(Unknown Source)
+	at Add equip.run(Add equip:42)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685690560962.run(TempTestSuite1685690560962.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_LiveSust/input_No_Name' located by '//input[@id='Name']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:51)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:980)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$2.call(Unknown Source)
+	at Script1685449268104.run(Script1685449268104.groovy:42)
+	... 16 more
+)
+
+2023-06-02 13:00:14 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //input[@id='Name']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-06-02 13:00:14 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_LiveSust/input_No_Name'. Try using Self-healing.
+
+2023-06-02 13:00:16 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//input[@id='Name']'.
+
+2023-06-02 13:00:18 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//form[@id='equipmentForm']/div/div/app-input/div/input'.
+
+2023-06-02 13:00:20 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//app-input/div/input'.
+
+2023-06-02 13:00:22 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//input[@placeholder = 'labelName' and @type = 'text' and @id = 'Name']'.
+
+2023-06-02 13:00:24 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //*[@placeholder = 'labelName' and @type = 'text' and @id = 'Name']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-06-02 13:00:26 - [MESSAGE][INFO] - Unable to find the element located by 'By.cssSelector: #Name'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-06-02 13:00:27 - [MESSAGE][FAILED] - Unable to set text 'New EQuips' of object 'Object Repository/Page_LiveSust/input_No_Name' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to set text 'New EQuips' of object 'Object Repository/Page_LiveSust/input_No_Name'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:980)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$2.call(Unknown Source)
+	at Add equip.run(Add equip:42)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685690560962.run(TempTestSuite1685690560962.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_LiveSust/input_No_Name' located by '//input[@id='Name']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:51)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:980)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$2.call(Unknown Source)
+	at Script1685449268104.run(Script1685449268104.groovy:42)
+	... 16 more
+)
+[[ATTACHMENT|C:\\Users\\rajeswari.r\\Katalon Studio\\Livesust\\Reports\\20230602_125240\\Sprint 4\\20230602_125240\\1685691026758.png]]]]></system-out>
+         <system-err><![CDATA[2023-06-02 12:58:32 - [TEST_CASE][FAILED] - Test Cases/Sprint 4/Add equip: Test Cases/Sprint 4/Add equip FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to set text 'New EQuips' of object 'Object Repository/Page_LiveSust/input_No_Name'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:980)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$2.call(Unknown Source)
+	at Add equip.run(Add equip:42)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685690560962.run(TempTestSuite1685690560962.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_LiveSust/input_No_Name' located by '//input[@id='Name']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:51)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sprint 4/Add equipment group" time="26.238" classname="Test Cases/Sprint 4/Add equipment group" status="PASSED">
+         <system-out><![CDATA[2023-06-02 13:00:27 - [TEST_CASE][PASSED] - Test Cases/Sprint 4/Add equipment group: Test Cases/Sprint 4/Add equipment group
+
+2023-06-02 13:00:28 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-06-02 13:00:28 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-06-02 13:00:29 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-06-02 13:00:29 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-06-02 13:00:33 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-06-02 13:00:33 - [TEST_STEP][PASSED] - navigateToUrl("https://livesust-test-web.optisolbusiness.com/login"): Navigate to 'https://livesust-test-web.optisolbusiness.com/login' successfully
+
+2023-06-02 13:00:37 - [MESSAGE][PASSED] - Navigate to 'https://livesust-test-web.optisolbusiness.com/login' successfully
+
+2023-06-02 13:00:37 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-06-02 13:00:37 - [MESSAGE][PASSED] - Current window maximized
+
+2023-06-02 13:00:37 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address"), "Sachin@yopmail.com"): Text 'Sachin@yopmail.com' is set on object 'Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address'
+
+2023-06-02 13:00:38 - [MESSAGE][PASSED] - Text 'Sachin@yopmail.com' is set on object 'Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address'
+
+2023-06-02 13:00:38 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password"), "+p0xE3Qc9agwqAa4cuTULg=="): Text ****** has been set on object 'Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password'
+
+2023-06-02 13:00:39 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password'
+
+2023-06-02 13:00:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/button_Log In")): Object: 'Object Repository/Page_LiveSust/button_Log In' is clicked on
+
+2023-06-02 13:00:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/button_Log In' is clicked on
+
+2023-06-02 13:00:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/span_Equipment")): Object: 'Object Repository/Page_LiveSust/span_Equipment' is clicked on
+
+2023-06-02 13:00:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/span_Equipment' is clicked on
+
+2023-06-02 13:00:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/span_Equipment Groups")): Object: 'Object Repository/Page_LiveSust/span_Equipment Groups' is clicked on
+
+2023-06-02 13:00:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/span_Equipment Groups' is clicked on
+
+2023-06-02 13:00:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/button_Add Equipment Group")): Object: 'Object Repository/Page_LiveSust/button_Add Equipment Group' is clicked on
+
+2023-06-02 13:00:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/button_Add Equipment Group' is clicked on
+
+2023-06-02 13:00:44 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_LiveSust/input_Archived_Equipment Group Name"), "MyEquip"): Text 'MyEquip' is set on object 'Object Repository/Page_LiveSust/input_Archived_Equipment Group Name'
+
+2023-06-02 13:00:45 - [MESSAGE][PASSED] - Text 'MyEquip' is set on object 'Object Repository/Page_LiveSust/input_Archived_Equipment Group Name'
+
+2023-06-02 13:00:45 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_LiveSust/textarea_Equipment Group Name_Notes"), "Notes about the equip"): Text 'Notes about the equip' is set on object 'Object Repository/Page_LiveSust/textarea_Equipment Group Name_Notes'
+
+2023-06-02 13:00:46 - [MESSAGE][PASSED] - Text 'Notes about the equip' is set on object 'Object Repository/Page_LiveSust/textarea_Equipment Group Name_Notes'
+
+2023-06-02 13:00:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/span_Assign Equipment")): Object: 'Object Repository/Page_LiveSust/span_Assign Equipment' is clicked on
+
+2023-06-02 13:00:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/span_Assign Equipment' is clicked on
+
+2023-06-02 13:00:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/label_nAMEmcm")): Object: 'Object Repository/Page_LiveSust/label_nAMEmcm' is clicked on
+
+2023-06-02 13:00:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/label_nAMEmcm' is clicked on
+
+2023-06-02 13:00:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/label_size")): Object: 'Object Repository/Page_LiveSust/label_size' is clicked on
+
+2023-06-02 13:00:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/label_size' is clicked on
+
+2023-06-02 13:00:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/div_Equipment Group NameNotes")): Object: 'Object Repository/Page_LiveSust/div_Equipment Group NameNotes' is clicked on
+
+2023-06-02 13:00:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/div_Equipment Group NameNotes' is clicked on
+
+2023-06-02 13:00:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/button_Save Equipment Group")): Object: 'Object Repository/Page_LiveSust/button_Save Equipment Group' is clicked on
+
+2023-06-02 13:00:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/button_Save Equipment Group' is clicked on
+
+2023-06-02 13:00:49 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Page_LiveSust/div_Equipment group created successfully"), "Equipment group created successfully"): Actual text and expected text of test object 'Object Repository/Page_LiveSust/div_Equipment group created successfully' are matched.
+
+2023-06-02 13:00:51 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_LiveSust/div_Equipment group created successfully' are matched.
+
+2023-06-02 13:00:51 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-06-02 13:00:53 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sprint 4/Archive equip" time="50.58" classname="Test Cases/Sprint 4/Archive equip" status="PASSED">
+         <system-out><![CDATA[2023-06-02 13:00:53 - [TEST_CASE][PASSED] - Test Cases/Sprint 4/Archive equip: Test Cases/Sprint 4/Archive equip
+
+2023-06-02 13:00:54 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-06-02 13:00:54 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-06-02 13:00:54 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-06-02 13:00:57 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-06-02 13:00:57 - [TEST_STEP][PASSED] - navigateToUrl("https://livesust-test-web.optisolbusiness.com/login"): Navigate to 'https://livesust-test-web.optisolbusiness.com/login' successfully
+
+2023-06-02 13:01:01 - [MESSAGE][PASSED] - Navigate to 'https://livesust-test-web.optisolbusiness.com/login' successfully
+
+2023-06-02 13:01:01 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-06-02 13:01:02 - [MESSAGE][PASSED] - Current window maximized
+
+2023-06-02 13:01:02 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address"), "Sachin@yopmail.com"): Text 'Sachin@yopmail.com' is set on object 'Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address'
+
+2023-06-02 13:01:03 - [MESSAGE][PASSED] - Text 'Sachin@yopmail.com' is set on object 'Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address'
+
+2023-06-02 13:01:03 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password"), "+p0xE3Qc9agwqAa4cuTULg=="): Text ****** has been set on object 'Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password'
+
+2023-06-02 13:01:04 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password'
+
+2023-06-02 13:01:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down")): Object: 'Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down' is clicked on
+
+2023-06-02 13:01:35 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='nav-equipment']/app-equipment/div/div/div/div/table/tbody/tr[2]/td[6]/button[2]/em'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-06-02 13:01:35 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down'. Try using Self-healing.
+
+2023-06-02 13:01:35 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down' was broken. Propose an alternative one: '//app-input/div/div/em'.
+
+2023-06-02 13:01:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down' is clicked on
+
+2023-06-02 13:01:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/button_Log In")): Object: 'Object Repository/Page_LiveSust/button_Log In' is clicked on
+
+2023-06-02 13:01:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/button_Log In' is clicked on
+
+2023-06-02 13:01:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/span_Equipment")): Object: 'Object Repository/Page_LiveSust/span_Equipment' is clicked on
+
+2023-06-02 13:01:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/span_Equipment' is clicked on
+
+2023-06-02 13:01:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/button_Active_btn-outline")): Object: 'Object Repository/Page_LiveSust/button_Active_btn-outline' is clicked on
+
+2023-06-02 13:01:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/button_Active_btn-outline' is clicked on
+
+2023-06-02 13:01:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/button_Archive")): Object: 'Object Repository/Page_LiveSust/button_Archive' is clicked on
+
+2023-06-02 13:01:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/button_Archive' is clicked on
+
+2023-06-02 13:01:41 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_LiveSust/div_Equipment archived successfully"), 0): Object 'Object Repository/Page_LiveSust/div_Equipment archived successfully' is present
+
+2023-06-02 13:01:41 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-02 13:01:42 - [MESSAGE][PASSED] - Object 'Object Repository/Page_LiveSust/div_Equipment archived successfully' is present
+
+2023-06-02 13:01:42 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-06-02 13:01:43 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sprint 4/Delete equip" time="82.323" classname="Test Cases/Sprint 4/Delete equip" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Sprint 4/Delete equip FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_LiveSust/button_Delete'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$4.call(Unknown Source)
+	at Delete equip.run(Delete equip:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685690560962.run(TempTestSuite1685690560962.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_LiveSust/button_Delete' located by '(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+"/>
+         <system-out><![CDATA[2023-06-02 13:05:56 - [TEST_CASE][FAILED] - Test Cases/Sprint 4/Delete equip: Test Cases/Sprint 4/Delete equip FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_LiveSust/button_Delete'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$4.call(Unknown Source)
+	at Delete equip.run(Delete equip:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685690560962.run(TempTestSuite1685690560962.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_LiveSust/button_Delete' located by '(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+
+
+2023-06-02 13:05:56 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-06-02 13:05:56 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-06-02 13:05:58 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-06-02 13:05:58 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-06-02 13:06:01 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-06-02 13:06:01 - [TEST_STEP][PASSED] - navigateToUrl("https://livesust-test-web.optisolbusiness.com/login"): Navigate to 'https://livesust-test-web.optisolbusiness.com/login' successfully
+
+2023-06-02 13:06:05 - [MESSAGE][PASSED] - Navigate to 'https://livesust-test-web.optisolbusiness.com/login' successfully
+
+2023-06-02 13:06:05 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address"), "Sachin@yopmail.com"): Text 'Sachin@yopmail.com' is set on object 'Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address'
+
+2023-06-02 13:06:07 - [MESSAGE][PASSED] - Text 'Sachin@yopmail.com' is set on object 'Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address'
+
+2023-06-02 13:06:07 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password"), "+p0xE3Qc9agwqAa4cuTULg=="): Text ****** has been set on object 'Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password'
+
+2023-06-02 13:06:07 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password'
+
+2023-06-02 13:06:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/button_Log In")): Object: 'Object Repository/Page_LiveSust/button_Log In' is clicked on
+
+2023-06-02 13:06:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/button_Log In' is clicked on
+
+2023-06-02 13:06:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/span_Equipment")): Object: 'Object Repository/Page_LiveSust/span_Equipment' is clicked on
+
+2023-06-02 13:06:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/span_Equipment' is clicked on
+
+2023-06-02 13:06:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down")): Object: 'Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down' is clicked on
+
+2023-06-02 13:06:42 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='nav-equipment']/app-equipment/div/div/div/div/table/tbody/tr[2]/td[6]/button[2]/em'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-06-02 13:06:42 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down'. Try using Self-healing.
+
+2023-06-02 13:06:43 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //app-input/div/div/em'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-06-02 13:06:43 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down' was broken. Propose an alternative one: '//button/em'.
+
+2023-06-02 13:06:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down' is clicked on
+
+2023-06-02 13:06:44 - [TEST_STEP][FAILED] - click(findTestObject("Object Repository/Page_LiveSust/button_Delete")): Unable to click on object 'Object Repository/Page_LiveSust/button_Delete' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_LiveSust/button_Delete'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$4.call(Unknown Source)
+	at Delete equip.run(Delete equip:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685690560962.run(TempTestSuite1685690560962.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_LiveSust/button_Delete' located by '(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$4.call(Unknown Source)
+	at Script1685510161070.run(Script1685510161070.groovy:34)
+	... 16 more
+)
+
+2023-06-02 13:07:15 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: (.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-06-02 13:07:15 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_LiveSust/button_Delete'. Try using Self-healing.
+
+2023-06-02 13:07:15 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]'.
+
+2023-06-02 13:07:15 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '(.//*[normalize-space(text()) and normalize-space(.)='Are you sure you want to delete?'])[1]/following::button[2]'.
+
+2023-06-02 13:07:16 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*/text()[normalize-space(.)='Delete']/parent::*'.
+
+2023-06-02 13:07:16 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//div[2]/button[2]'.
+
+2023-06-02 13:07:16 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//button[(text() = 'Delete' or . = 'Delete')]'.
+
+2023-06-02 13:07:17 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //*[(text() = 'Delete' or . = 'Delete')]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-06-02 13:07:18 - [MESSAGE][INFO] - Unable to find the element located by 'By.cssSelector: button.btn-danger.px-4.py-2.mx-3.fs12.my-2.ng-star-inserted'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-06-02 13:07:19 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Page_LiveSust/button_Delete' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_LiveSust/button_Delete'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$4.call(Unknown Source)
+	at Delete equip.run(Delete equip:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685690560962.run(TempTestSuite1685690560962.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_LiveSust/button_Delete' located by '(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$4.call(Unknown Source)
+	at Script1685510161070.run(Script1685510161070.groovy:34)
+	... 16 more
+)
+[[ATTACHMENT|C:\\Users\\rajeswari.r\\Katalon Studio\\Livesust\\Reports\\20230602_125240\\Sprint 4\\20230602_125240\\1685691438977.png]]]]></system-out>
+         <system-err><![CDATA[2023-06-02 13:05:56 - [TEST_CASE][FAILED] - Test Cases/Sprint 4/Delete equip: Test Cases/Sprint 4/Delete equip FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_LiveSust/button_Delete'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$4.call(Unknown Source)
+	at Delete equip.run(Delete equip:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685690560962.run(TempTestSuite1685690560962.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_LiveSust/button_Delete' located by '(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sprint 4/Delete equip group" time="84.346" classname="Test Cases/Sprint 4/Delete equip group" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Sprint 4/Delete equip group FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_LiveSust/button_Delete'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$4.call(Unknown Source)
+	at Delete equip group.run(Delete equip group:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685690560962.run(TempTestSuite1685690560962.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_LiveSust/button_Delete' located by '(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+"/>
+         <system-out><![CDATA[2023-06-02 13:38:11 - [TEST_CASE][FAILED] - Test Cases/Sprint 4/Delete equip group: Test Cases/Sprint 4/Delete equip group FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_LiveSust/button_Delete'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$4.call(Unknown Source)
+	at Delete equip group.run(Delete equip group:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685690560962.run(TempTestSuite1685690560962.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_LiveSust/button_Delete' located by '(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+
+
+2023-06-02 13:38:11 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-06-02 13:38:11 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-06-02 13:38:12 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-06-02 13:38:12 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-06-02 13:38:16 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-06-02 13:38:16 - [TEST_STEP][PASSED] - navigateToUrl("https://livesust-test-web.optisolbusiness.com/login"): Navigate to 'https://livesust-test-web.optisolbusiness.com/login' successfully
+
+2023-06-02 13:38:20 - [MESSAGE][PASSED] - Navigate to 'https://livesust-test-web.optisolbusiness.com/login' successfully
+
+2023-06-02 13:38:20 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address"), "Sachin@yopmail.com"): Text 'Sachin@yopmail.com' is set on object 'Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address'
+
+2023-06-02 13:38:21 - [MESSAGE][PASSED] - Text 'Sachin@yopmail.com' is set on object 'Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address'
+
+2023-06-02 13:38:21 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password"), "+p0xE3Qc9agwqAa4cuTULg=="): Text ****** has been set on object 'Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password'
+
+2023-06-02 13:38:22 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password'
+
+2023-06-02 13:38:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/button_Log In")): Object: 'Object Repository/Page_LiveSust/button_Log In' is clicked on
+
+2023-06-02 13:38:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/button_Log In' is clicked on
+
+2023-06-02 13:38:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/span_Equipment")): Object: 'Object Repository/Page_LiveSust/span_Equipment' is clicked on
+
+2023-06-02 13:38:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/span_Equipment' is clicked on
+
+2023-06-02 13:38:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/span_Equipment Groups")): Object: 'Object Repository/Page_LiveSust/span_Equipment Groups' is clicked on
+
+2023-06-02 13:38:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/span_Equipment Groups' is clicked on
+
+2023-06-02 13:38:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down")): Object: 'Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down' is clicked on
+
+2023-06-02 13:38:57 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='nav-equipment']/app-equipment/div/div/div/div/table/tbody/tr[2]/td[6]/button[2]/em'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-06-02 13:38:57 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down'. Try using Self-healing.
+
+2023-06-02 13:38:59 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //app-input/div/div/em'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-06-02 13:38:59 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down' was broken. Propose an alternative one: '//button/em'.
+
+2023-06-02 13:38:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down' is clicked on
+
+2023-06-02 13:38:59 - [TEST_STEP][FAILED] - click(findTestObject("Object Repository/Page_LiveSust/button_Delete")): Unable to click on object 'Object Repository/Page_LiveSust/button_Delete' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_LiveSust/button_Delete'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$4.call(Unknown Source)
+	at Delete equip group.run(Delete equip group:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685690560962.run(TempTestSuite1685690560962.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_LiveSust/button_Delete' located by '(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$4.call(Unknown Source)
+	at Script1684833353072.run(Script1684833353072.groovy:36)
+	... 16 more
+)
+
+2023-06-02 13:39:31 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: (.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-06-02 13:39:31 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_LiveSust/button_Delete'. Try using Self-healing.
+
+2023-06-02 13:39:31 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]'.
+
+2023-06-02 13:39:31 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '(.//*[normalize-space(text()) and normalize-space(.)='Are you sure you want to delete?'])[1]/following::button[2]'.
+
+2023-06-02 13:39:32 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//*/text()[normalize-space(.)='Delete']/parent::*'.
+
+2023-06-02 13:39:32 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//div[2]/button[2]'.
+
+2023-06-02 13:39:32 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//button[(text() = 'Delete' or . = 'Delete')]'.
+
+2023-06-02 13:39:33 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //*[(text() = 'Delete' or . = 'Delete')]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-06-02 13:39:35 - [MESSAGE][INFO] - Unable to find the element located by 'By.cssSelector: button.btn-danger.px-4.py-2.mx-3.fs12.my-2.ng-star-inserted'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-06-02 13:39:35 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Page_LiveSust/button_Delete' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_LiveSust/button_Delete'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$4.call(Unknown Source)
+	at Delete equip group.run(Delete equip group:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685690560962.run(TempTestSuite1685690560962.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_LiveSust/button_Delete' located by '(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$4.call(Unknown Source)
+	at Script1684833353072.run(Script1684833353072.groovy:36)
+	... 16 more
+)
+[[ATTACHMENT|C:\\Users\\rajeswari.r\\Katalon Studio\\Livesust\\Reports\\20230602_125240\\Sprint 4\\20230602_125240\\1685693375249.png]]]]></system-out>
+         <system-err><![CDATA[2023-06-02 13:38:11 - [TEST_CASE][FAILED] - Test Cases/Sprint 4/Delete equip group: Test Cases/Sprint 4/Delete equip group FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_LiveSust/button_Delete'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$4.call(Unknown Source)
+	at Delete equip group.run(Delete equip group:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685690560962.run(TempTestSuite1685690560962.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_LiveSust/button_Delete' located by '(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:65)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sprint 4/Edit equip" time="53.237" classname="Test Cases/Sprint 4/Edit equip" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Sprint 4/Edit equip FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to set text '43' of object 'Object Repository/Page_LiveSust/input_Serial_Size'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:980)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$2.call(Unknown Source)
+	at Edit equip.run(Edit equip:38)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685690560962.run(TempTestSuite1685690560962.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_LiveSust/input_Serial_Size' located by '//input[@id='Size']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:51)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+"/>
+         <system-out><![CDATA[2023-06-02 13:42:06 - [TEST_CASE][FAILED] - Test Cases/Sprint 4/Edit equip: Test Cases/Sprint 4/Edit equip FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to set text '43' of object 'Object Repository/Page_LiveSust/input_Serial_Size'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:980)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$2.call(Unknown Source)
+	at Edit equip.run(Edit equip:38)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685690560962.run(TempTestSuite1685690560962.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_LiveSust/input_Serial_Size' located by '//input[@id='Size']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:51)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+
+
+2023-06-02 13:42:06 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-06-02 13:42:06 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-06-02 13:42:07 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-06-02 13:42:07 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-06-02 13:42:11 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-06-02 13:42:11 - [TEST_STEP][PASSED] - navigateToUrl("https://livesust-test-web.optisolbusiness.com/login"): Navigate to 'https://livesust-test-web.optisolbusiness.com/login' successfully
+
+2023-06-02 13:42:15 - [MESSAGE][PASSED] - Navigate to 'https://livesust-test-web.optisolbusiness.com/login' successfully
+
+2023-06-02 13:42:15 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-06-02 13:42:15 - [MESSAGE][PASSED] - Current window maximized
+
+2023-06-02 13:42:15 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address"), "Sachin@yopmail.com"): Text 'Sachin@yopmail.com' is set on object 'Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address'
+
+2023-06-02 13:42:16 - [MESSAGE][PASSED] - Text 'Sachin@yopmail.com' is set on object 'Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address'
+
+2023-06-02 13:42:16 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password"), "+p0xE3Qc9agwqAa4cuTULg=="): Text ****** has been set on object 'Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password'
+
+2023-06-02 13:42:17 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password'
+
+2023-06-02 13:42:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/button_Log In")): Object: 'Object Repository/Page_LiveSust/button_Log In' is clicked on
+
+2023-06-02 13:42:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/button_Log In' is clicked on
+
+2023-06-02 13:42:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/span_Estimates")): Object: 'Object Repository/Page_LiveSust/span_Estimates' is clicked on
+
+2023-06-02 13:42:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/span_Estimates' is clicked on
+
+2023-06-02 13:42:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/span_Equipment")): Object: 'Object Repository/Page_LiveSust/span_Equipment' is clicked on
+
+2023-06-02 13:42:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/span_Equipment' is clicked on
+
+2023-06-02 13:42:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/button_Active_btn-outline")): Object: 'Object Repository/Page_LiveSust/button_Active_btn-outline' is clicked on
+
+2023-06-02 13:42:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/button_Active_btn-outline' is clicked on
+
+2023-06-02 13:42:24 - [TEST_STEP][FAILED] - setText(findTestObject("Object Repository/Page_LiveSust/input_Serial_Size"), "43"): Unable to set text '43' of object 'Object Repository/Page_LiveSust/input_Serial_Size' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to set text '43' of object 'Object Repository/Page_LiveSust/input_Serial_Size'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:980)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$2.call(Unknown Source)
+	at Edit equip.run(Edit equip:38)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685690560962.run(TempTestSuite1685690560962.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_LiveSust/input_Serial_Size' located by '//input[@id='Size']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:51)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:980)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$2.call(Unknown Source)
+	at Script1685506999729.run(Script1685506999729.groovy:38)
+	... 16 more
+)
+
+2023-06-02 13:42:55 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //input[@id='Size']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-06-02 13:42:55 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_LiveSust/input_Serial_Size'. Try using Self-healing.
+
+2023-06-02 13:42:55 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//input[@id='Size']'.
+
+2023-06-02 13:42:56 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//form[@id='equipmentForm']/div/div/app-input[3]/div/input'.
+
+2023-06-02 13:42:56 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//app-input[3]/div/input'.
+
+2023-06-02 13:42:56 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//input[@placeholder = 'labelName' and @type = 'text' and @id = 'Size']'.
+
+2023-06-02 13:42:57 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //*[@placeholder = 'labelName' and @type = 'text' and @id = 'Size']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-06-02 13:42:59 - [MESSAGE][INFO] - Unable to find the element located by 'By.cssSelector: #Size'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-06-02 13:42:59 - [MESSAGE][FAILED] - Unable to set text '43' of object 'Object Repository/Page_LiveSust/input_Serial_Size' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to set text '43' of object 'Object Repository/Page_LiveSust/input_Serial_Size'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:980)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$2.call(Unknown Source)
+	at Edit equip.run(Edit equip:38)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685690560962.run(TempTestSuite1685690560962.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_LiveSust/input_Serial_Size' located by '//input[@id='Size']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:51)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:980)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$2.call(Unknown Source)
+	at Script1685506999729.run(Script1685506999729.groovy:38)
+	... 16 more
+)
+[[ATTACHMENT|C:\\Users\\rajeswari.r\\Katalon Studio\\Livesust\\Reports\\20230602_125240\\Sprint 4\\20230602_125240\\1685693579047.png]]]]></system-out>
+         <system-err><![CDATA[2023-06-02 13:42:06 - [TEST_CASE][FAILED] - Test Cases/Sprint 4/Edit equip: Test Cases/Sprint 4/Edit equip FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to set text '43' of object 'Object Repository/Page_LiveSust/input_Serial_Size'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:980)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$2.call(Unknown Source)
+	at Edit equip.run(Edit equip:38)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685690560962.run(TempTestSuite1685690560962.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_LiveSust/input_Serial_Size' located by '//input[@id='Size']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:51)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sprint 4/Edit equipment group" time="0.878" classname="Test Cases/Sprint 4/Edit equipment group" status="PASSED">
+         <system-out><![CDATA[2023-06-02 13:42:59 - [TEST_CASE][PASSED] - Test Cases/Sprint 4/Edit equipment group: Test Cases/Sprint 4/Edit equipment group
+
+2023-06-02 13:43:00 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sprint 4/Seach with invalid Equip group name" time="47.362" classname="Test Cases/Sprint 4/Seach with invalid Equip group name" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Sprint 4/Seach with invalid Equip group name FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to set text 'jgtkgkt' of object 'Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:980)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$2.call(Unknown Source)
+	at Seach with invalid Equip group name.run(Seach with invalid Equip group name:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685690560962.run(TempTestSuite1685690560962.groovy:36)
+Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=113.0.5672.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'LAPTOP-OBS-62', ip: '172.31.98.38', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.127, chrome: {chromedriverVersion: 113.0.5672.24 (65f30d4e8051..., userDataDir: C:\Users\RAJESW~1.R\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:64157}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 312c99f4c3ce98046d15647635f07f38
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.clear(RemoteWebElement.java:124)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.clear(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.clear(EventFiringWebDriver.java:436)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:53)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+"/>
+         <system-out><![CDATA[2023-06-02 13:45:23 - [TEST_CASE][FAILED] - Test Cases/Sprint 4/Seach with invalid Equip group name: Test Cases/Sprint 4/Seach with invalid Equip group name FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to set text 'jgtkgkt' of object 'Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:980)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$2.call(Unknown Source)
+	at Seach with invalid Equip group name.run(Seach with invalid Equip group name:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685690560962.run(TempTestSuite1685690560962.groovy:36)
+Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=113.0.5672.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'LAPTOP-OBS-62', ip: '172.31.98.38', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.127, chrome: {chromedriverVersion: 113.0.5672.24 (65f30d4e8051..., userDataDir: C:\Users\RAJESW~1.R\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:64157}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 312c99f4c3ce98046d15647635f07f38
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.clear(RemoteWebElement.java:124)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.clear(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.clear(EventFiringWebDriver.java:436)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:53)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+
+
+2023-06-02 13:45:23 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-06-02 13:45:23 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-06-02 13:45:25 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-06-02 13:45:25 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-06-02 13:45:28 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-06-02 13:45:28 - [TEST_STEP][PASSED] - navigateToUrl("https://livesust-test-web.optisolbusiness.com/login"): Navigate to 'https://livesust-test-web.optisolbusiness.com/login' successfully
+
+2023-06-02 13:45:32 - [MESSAGE][PASSED] - Navigate to 'https://livesust-test-web.optisolbusiness.com/login' successfully
+
+2023-06-02 13:45:32 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address"), "Sachin@yopmail.com"): Text 'Sachin@yopmail.com' is set on object 'Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address'
+
+2023-06-02 13:45:34 - [MESSAGE][PASSED] - Text 'Sachin@yopmail.com' is set on object 'Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address'
+
+2023-06-02 13:45:34 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password"), "+p0xE3Qc9agwqAa4cuTULg=="): Text ****** has been set on object 'Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password'
+
+2023-06-02 13:45:34 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password'
+
+2023-06-02 13:45:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/button_Log In")): Object: 'Object Repository/Page_LiveSust/button_Log In' is clicked on
+
+2023-06-02 13:45:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/button_Log In' is clicked on
+
+2023-06-02 13:45:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/span_Equipment")): Object: 'Object Repository/Page_LiveSust/span_Equipment' is clicked on
+
+2023-06-02 13:45:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/span_Equipment' is clicked on
+
+2023-06-02 13:45:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/span_Equipment Groups")): Object: 'Object Repository/Page_LiveSust/span_Equipment Groups' is clicked on
+
+2023-06-02 13:45:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/span_Equipment Groups' is clicked on
+
+2023-06-02 13:45:39 - [TEST_STEP][FAILED] - setText(findTestObject("Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85"), "jgtkgkt"): Unable to set text 'jgtkgkt' of object 'Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to set text 'jgtkgkt' of object 'Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:980)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$2.call(Unknown Source)
+	at Seach with invalid Equip group name.run(Seach with invalid Equip group name:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685690560962.run(TempTestSuite1685690560962.groovy:36)
+Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=113.0.5672.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'LAPTOP-OBS-62', ip: '172.31.98.38', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.127, chrome: {chromedriverVersion: 113.0.5672.24 (65f30d4e8051..., userDataDir: C:\Users\RAJESW~1.R\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:64157}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 312c99f4c3ce98046d15647635f07f38
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.clear(RemoteWebElement.java:124)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.clear(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.clear(EventFiringWebDriver.java:436)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:53)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:980)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$2.call(Unknown Source)
+	at Script1684804341715.run(Script1684804341715.groovy:34)
+	... 16 more
+)
+
+2023-06-02 13:46:10 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: (//input[@type='text'])[8]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-06-02 13:46:10 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85'. Try using Self-healing.
+
+2023-06-02 13:46:11 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85' was broken. Propose an alternative one: '(//input[@type='text'])[2]'.
+
+2023-06-02 13:46:11 - [MESSAGE][FAILED] - Unable to set text 'jgtkgkt' of object 'Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to set text 'jgtkgkt' of object 'Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:980)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$2.call(Unknown Source)
+	at Seach with invalid Equip group name.run(Seach with invalid Equip group name:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685690560962.run(TempTestSuite1685690560962.groovy:36)
+Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=113.0.5672.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'LAPTOP-OBS-62', ip: '172.31.98.38', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.127, chrome: {chromedriverVersion: 113.0.5672.24 (65f30d4e8051..., userDataDir: C:\Users\RAJESW~1.R\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:64157}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 312c99f4c3ce98046d15647635f07f38
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.clear(RemoteWebElement.java:124)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.clear(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.clear(EventFiringWebDriver.java:436)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:53)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:980)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$2.call(Unknown Source)
+	at Script1684804341715.run(Script1684804341715.groovy:34)
+	... 16 more
+)
+[[ATTACHMENT|C:\\Users\\rajeswari.r\\Katalon Studio\\Livesust\\Reports\\20230602_125240\\Sprint 4\\20230602_125240\\1685693771124.png]]]]></system-out>
+         <system-err><![CDATA[2023-06-02 13:45:23 - [TEST_CASE][FAILED] - Test Cases/Sprint 4/Seach with invalid Equip group name: Test Cases/Sprint 4/Seach with invalid Equip group name FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to set text 'jgtkgkt' of object 'Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:980)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$2.call(Unknown Source)
+	at Seach with invalid Equip group name.run(Seach with invalid Equip group name:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685690560962.run(TempTestSuite1685690560962.groovy:36)
+Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=113.0.5672.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'LAPTOP-OBS-62', ip: '172.31.98.38', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.127, chrome: {chromedriverVersion: 113.0.5672.24 (65f30d4e8051..., userDataDir: C:\Users\RAJESW~1.R\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:64157}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 312c99f4c3ce98046d15647635f07f38
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.clear(RemoteWebElement.java:124)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.clear(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.clear(EventFiringWebDriver.java:436)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:53)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sprint 4/Search with invalid equip name" time="81.721" classname="Test Cases/Sprint 4/Search with invalid equip name" status="PASSED">
+         <system-out><![CDATA[2023-06-02 13:46:11 - [TEST_CASE][PASSED] - Test Cases/Sprint 4/Search with invalid equip name: Test Cases/Sprint 4/Search with invalid equip name
+
+2023-06-02 13:46:12 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-06-02 13:46:12 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-06-02 13:46:13 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-06-02 13:46:13 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-06-02 13:46:17 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-06-02 13:46:17 - [TEST_STEP][PASSED] - navigateToUrl("https://livesust-test-web.optisolbusiness.com/login"): Navigate to 'https://livesust-test-web.optisolbusiness.com/login' successfully
+
+2023-06-02 13:46:21 - [MESSAGE][PASSED] - Navigate to 'https://livesust-test-web.optisolbusiness.com/login' successfully
+
+2023-06-02 13:46:21 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-06-02 13:46:21 - [MESSAGE][PASSED] - Current window maximized
+
+2023-06-02 13:46:21 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address"), "Sachin@yopmail.com"): Text 'Sachin@yopmail.com' is set on object 'Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address'
+
+2023-06-02 13:46:22 - [MESSAGE][PASSED] - Text 'Sachin@yopmail.com' is set on object 'Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address'
+
+2023-06-02 13:46:22 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password"), "+p0xE3Qc9agwqAa4cuTULg=="): Text ****** has been set on object 'Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password'
+
+2023-06-02 13:46:23 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password'
+
+2023-06-02 13:46:23 - [TEST_STEP][PASSED] - click(findTestObject("Page_LiveSust/button_Log In")): Object: 'Object Repository/Page_LiveSust/button_Log In' is clicked on
+
+2023-06-02 13:46:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/button_Log In' is clicked on
+
+2023-06-02 13:46:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/span_Equipment")): Object: 'Object Repository/Page_LiveSust/span_Equipment' is clicked on
+
+2023-06-02 13:46:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/span_Equipment' is clicked on
+
+2023-06-02 13:46:26 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85"), "kjghd"): Text 'kjghd' is set on object 'Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85'
+
+2023-06-02 13:46:57 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: (//input[@type='text'])[8]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-06-02 13:46:57 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85'. Try using Self-healing.
+
+2023-06-02 13:46:58 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85' was broken. Propose an alternative one: '(//input[@type='text'])[2]'.
+
+2023-06-02 13:47:29 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: (//input[@type='text'])[8]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-06-02 13:47:29 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85'. Try using Self-healing.
+
+2023-06-02 13:47:29 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85' was broken. Propose an alternative one: '(//input[@type='text'])[2]'.
+
+2023-06-02 13:47:29 - [MESSAGE][PASSED] - Text 'kjghd' is set on object 'Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85'
+
+2023-06-02 13:47:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/p_No Data Found")): Object: 'Object Repository/Page_LiveSust/p_No Data Found' is clicked on
+
+2023-06-02 13:47:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/p_No Data Found' is clicked on
+
+2023-06-02 13:47:30 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_LiveSust/p_No Data Found")): Object 'Object Repository/Page_LiveSust/p_No Data Found' is visible
+
+2023-06-02 13:47:31 - [MESSAGE][PASSED] - Object 'Object Repository/Page_LiveSust/p_No Data Found' is visible
+
+2023-06-02 13:47:31 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-06-02 13:47:33 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sprint 4/Search with valid Equip group name" time="78.728" classname="Test Cases/Sprint 4/Search with valid Equip group name" status="PASSED">
+         <system-out><![CDATA[2023-06-02 13:47:33 - [TEST_CASE][PASSED] - Test Cases/Sprint 4/Search with valid Equip group name: Test Cases/Sprint 4/Search with valid Equip group name
+
+2023-06-02 13:47:33 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-06-02 13:47:33 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-06-02 13:47:33 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-06-02 13:47:37 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-06-02 13:47:37 - [TEST_STEP][PASSED] - navigateToUrl("https://livesust-test-web.optisolbusiness.com/login"): Navigate to 'https://livesust-test-web.optisolbusiness.com/login' successfully
+
+2023-06-02 13:47:41 - [MESSAGE][PASSED] - Navigate to 'https://livesust-test-web.optisolbusiness.com/login' successfully
+
+2023-06-02 13:47:41 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-06-02 13:47:41 - [MESSAGE][PASSED] - Current window maximized
+
+2023-06-02 13:47:41 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address"), "Sachin@yopmail.com"): Text 'Sachin@yopmail.com' is set on object 'Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address'
+
+2023-06-02 13:47:42 - [MESSAGE][PASSED] - Text 'Sachin@yopmail.com' is set on object 'Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address'
+
+2023-06-02 13:47:42 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password"), "+p0xE3Qc9agwqAa4cuTULg=="): Text ****** has been set on object 'Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password'
+
+2023-06-02 13:47:43 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password'
+
+2023-06-02 13:47:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/button_Log In")): Object: 'Object Repository/Page_LiveSust/button_Log In' is clicked on
+
+2023-06-02 13:47:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/button_Log In' is clicked on
+
+2023-06-02 13:47:44 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85"), "First"): Text 'First' is set on object 'Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85'
+
+2023-06-02 13:48:15 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: (//input[@type='text'])[8]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-06-02 13:48:15 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85'. Try using Self-healing.
+
+2023-06-02 13:48:16 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85' was broken. Propose an alternative one: '(//input[@type='text'])[2]'.
+
+2023-06-02 13:48:47 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: (//input[@type='text'])[8]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-06-02 13:48:47 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85'. Try using Self-healing.
+
+2023-06-02 13:48:47 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85' was broken. Propose an alternative one: '(//input[@type='text'])[2]'.
+
+2023-06-02 13:48:47 - [MESSAGE][PASSED] - Text 'First' is set on object 'Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85'
+
+2023-06-02 13:48:47 - [TEST_STEP][PASSED] - rightClick(findTestObject("Object Repository/Page_LiveSust/a_First checkkk")): Object: 'Object Repository/Page_LiveSust/a_First checkkk' is right clicked on
+
+2023-06-02 13:48:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/a_First checkkk' is right clicked on
+
+2023-06-02 13:48:49 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_LiveSust/a_First checkkk"), 0): Object 'Object Repository/Page_LiveSust/a_First checkkk' is present
+
+2023-06-02 13:48:49 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-02 13:48:50 - [MESSAGE][PASSED] - Object 'Object Repository/Page_LiveSust/a_First checkkk' is present
+
+2023-06-02 13:48:50 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-06-02 13:48:51 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sprint 4/Search with valid equipment name" time="79.727" classname="Test Cases/Sprint 4/Search with valid equipment name" status="PASSED">
+         <system-out><![CDATA[2023-06-02 13:48:51 - [TEST_CASE][PASSED] - Test Cases/Sprint 4/Search with valid equipment name: Test Cases/Sprint 4/Search with valid equipment name
+
+2023-06-02 13:48:52 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-06-02 13:48:52 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-06-02 13:48:52 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-06-02 13:48:56 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-06-02 13:48:56 - [TEST_STEP][PASSED] - navigateToUrl("https://livesust-test-web.optisolbusiness.com/login"): Navigate to 'https://livesust-test-web.optisolbusiness.com/login' successfully
+
+2023-06-02 13:49:00 - [MESSAGE][PASSED] - Navigate to 'https://livesust-test-web.optisolbusiness.com/login' successfully
+
+2023-06-02 13:49:00 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-06-02 13:49:00 - [MESSAGE][PASSED] - Current window maximized
+
+2023-06-02 13:49:00 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address"), "Sachin@yopmail.com"): Text 'Sachin@yopmail.com' is set on object 'Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address'
+
+2023-06-02 13:49:01 - [MESSAGE][PASSED] - Text 'Sachin@yopmail.com' is set on object 'Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address'
+
+2023-06-02 13:49:01 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password"), "+p0xE3Qc9agwqAa4cuTULg=="): Text ****** has been set on object 'Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password'
+
+2023-06-02 13:49:02 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password'
+
+2023-06-02 13:49:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/button_Log In")): Object: 'Object Repository/Page_LiveSust/button_Log In' is clicked on
+
+2023-06-02 13:49:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/button_Log In' is clicked on
+
+2023-06-02 13:49:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/span_Equipment")): Object: 'Object Repository/Page_LiveSust/span_Equipment' is clicked on
+
+2023-06-02 13:49:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/span_Equipment' is clicked on
+
+2023-06-02 13:49:05 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85"), "size"): Text 'size' is set on object 'Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85'
+
+2023-06-02 13:49:37 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: (//input[@type='text'])[8]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-06-02 13:49:37 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85'. Try using Self-healing.
+
+2023-06-02 13:49:37 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85' was broken. Propose an alternative one: '(//input[@type='text'])[2]'.
+
+2023-06-02 13:50:08 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: (//input[@type='text'])[8]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-06-02 13:50:08 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85'. Try using Self-healing.
+
+2023-06-02 13:50:08 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85' was broken. Propose an alternative one: '(//input[@type='text'])[2]'.
+
+2023-06-02 13:50:08 - [MESSAGE][PASSED] - Text 'size' is set on object 'Object Repository/Page_LiveSust/input_Crew Colors_color-picker-input w-50 f_89ff85'
+
+2023-06-02 13:50:08 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_LiveSust/a_size"), 0): Object 'Object Repository/Page_LiveSust/a_size' is present
+
+2023-06-02 13:50:09 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-06-02 13:50:09 - [MESSAGE][PASSED] - Object 'Object Repository/Page_LiveSust/a_size' is present
+
+2023-06-02 13:50:09 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-06-02 13:50:11 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sprint 4/Uisng filter status in Equip" time="17.421" classname="Test Cases/Sprint 4/Uisng filter status in Equip" status="PASSED">
+         <system-out><![CDATA[2023-06-02 13:50:11 - [TEST_CASE][PASSED] - Test Cases/Sprint 4/Uisng filter status in Equip: Test Cases/Sprint 4/Uisng filter status in Equip
+
+2023-06-02 13:50:12 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-06-02 13:50:12 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-06-02 13:50:12 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-06-02 13:50:15 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-06-02 13:50:15 - [TEST_STEP][PASSED] - navigateToUrl("https://livesust-test-web.optisolbusiness.com/login"): Navigate to 'https://livesust-test-web.optisolbusiness.com/login' successfully
+
+2023-06-02 13:50:19 - [MESSAGE][PASSED] - Navigate to 'https://livesust-test-web.optisolbusiness.com/login' successfully
+
+2023-06-02 13:50:19 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-06-02 13:50:19 - [MESSAGE][PASSED] - Current window maximized
+
+2023-06-02 13:50:19 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address"), "Sachin@yopmail.com"): Text 'Sachin@yopmail.com' is set on object 'Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address'
+
+2023-06-02 13:50:20 - [MESSAGE][PASSED] - Text 'Sachin@yopmail.com' is set on object 'Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address'
+
+2023-06-02 13:50:20 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password"), "+p0xE3Qc9agwqAa4cuTULg=="): Text ****** has been set on object 'Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password'
+
+2023-06-02 13:50:21 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password'
+
+2023-06-02 13:50:21 - [TEST_STEP][PASSED] - click(findTestObject("Page_LiveSust/button_Log In")): Object: 'Object Repository/Page_LiveSust/button_Log In' is clicked on
+
+2023-06-02 13:50:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/button_Log In' is clicked on
+
+2023-06-02 13:50:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/span_Equipment")): Object: 'Object Repository/Page_LiveSust/span_Equipment' is clicked on
+
+2023-06-02 13:50:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/span_Equipment' is clicked on
+
+2023-06-02 13:50:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/div_Filter Status")): Object: 'Object Repository/Page_LiveSust/div_Filter Status' is clicked on
+
+2023-06-02 13:50:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/div_Filter Status' is clicked on
+
+2023-06-02 13:50:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/label_Need Replacement")): Object: 'Object Repository/Page_LiveSust/label_Need Replacement' is clicked on
+
+2023-06-02 13:50:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/label_Need Replacement' is clicked on
+
+2023-06-02 13:50:26 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_LiveSust/span_Need Replacement")): Object 'Object Repository/Page_LiveSust/span_Need Replacement' is visible
+
+2023-06-02 13:50:27 - [MESSAGE][PASSED] - Object 'Object Repository/Page_LiveSust/span_Need Replacement' is visible
+
+2023-06-02 13:50:27 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-06-02 13:50:28 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Sprint 4/Using filter status in Equip group" time="16.072" classname="Test Cases/Sprint 4/Using filter status in Equip group" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Sprint 4/Using filter status in Equip group FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_LiveSust/div_Filter Status'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$4.call(Unknown Source)
+	at Using filter status in Equip group.run(Using filter status in Equip group:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685690560962.run(TempTestSuite1685690560962.groovy:36)
+Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=113.0.5672.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'LAPTOP-OBS-62', ip: '172.31.98.38', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.127, chrome: {chromedriverVersion: 113.0.5672.24 (65f30d4e8051..., userDataDir: C:\Users\RAJESW~1.R\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:64609}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cdce77c5e6dae217c49baa76ec7f8220
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+"/>
+         <system-out><![CDATA[2023-06-02 13:51:17 - [TEST_CASE][FAILED] - Test Cases/Sprint 4/Using filter status in Equip group: Test Cases/Sprint 4/Using filter status in Equip group FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_LiveSust/div_Filter Status'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$4.call(Unknown Source)
+	at Using filter status in Equip group.run(Using filter status in Equip group:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685690560962.run(TempTestSuite1685690560962.groovy:36)
+Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=113.0.5672.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'LAPTOP-OBS-62', ip: '172.31.98.38', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.127, chrome: {chromedriverVersion: 113.0.5672.24 (65f30d4e8051..., userDataDir: C:\Users\RAJESW~1.R\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:64609}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cdce77c5e6dae217c49baa76ec7f8220
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more
+
+
+2023-06-02 13:51:17 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-06-02 13:51:17 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-06-02 13:51:19 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-06-02 13:51:19 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-06-02 13:51:22 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-06-02 13:51:22 - [TEST_STEP][PASSED] - navigateToUrl("https://livesust-test-web.optisolbusiness.com/login"): Navigate to 'https://livesust-test-web.optisolbusiness.com/login' successfully
+
+2023-06-02 13:51:26 - [MESSAGE][PASSED] - Navigate to 'https://livesust-test-web.optisolbusiness.com/login' successfully
+
+2023-06-02 13:51:26 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-06-02 13:51:27 - [MESSAGE][PASSED] - Current window maximized
+
+2023-06-02 13:51:27 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address"), "Sachin@yopmail.com"): Text 'Sachin@yopmail.com' is set on object 'Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address'
+
+2023-06-02 13:51:28 - [MESSAGE][PASSED] - Text 'Sachin@yopmail.com' is set on object 'Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address'
+
+2023-06-02 13:51:28 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password"), "+p0xE3Qc9agwqAa4cuTULg=="): Text ****** has been set on object 'Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password'
+
+2023-06-02 13:51:28 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password'
+
+2023-06-02 13:51:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/button_Log In")): Object: 'Object Repository/Page_LiveSust/button_Log In' is clicked on
+
+2023-06-02 13:51:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/button_Log In' is clicked on
+
+2023-06-02 13:51:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/span_Equipment")): Object: 'Object Repository/Page_LiveSust/span_Equipment' is clicked on
+
+2023-06-02 13:51:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/span_Equipment' is clicked on
+
+2023-06-02 13:51:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LiveSust/span_Equipment Groups")): Object: 'Object Repository/Page_LiveSust/span_Equipment Groups' is clicked on
+
+2023-06-02 13:51:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LiveSust/span_Equipment Groups' is clicked on
+
+2023-06-02 13:51:33 - [TEST_STEP][FAILED] - click(findTestObject("Object Repository/Page_LiveSust/div_Filter Status")): Unable to click on object 'Object Repository/Page_LiveSust/div_Filter Status' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_LiveSust/div_Filter Status'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$4.call(Unknown Source)
+	at Using filter status in Equip group.run(Using filter status in Equip group:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685690560962.run(TempTestSuite1685690560962.groovy:36)
+Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=113.0.5672.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'LAPTOP-OBS-62', ip: '172.31.98.38', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.127, chrome: {chromedriverVersion: 113.0.5672.24 (65f30d4e8051..., userDataDir: C:\Users\RAJESW~1.R\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:64609}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cdce77c5e6dae217c49baa76ec7f8220
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$4.call(Unknown Source)
+	at Script1684804740545.run(Script1684804740545.groovy:36)
+	... 16 more
+)
+
+2023-06-02 13:51:34 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Page_LiveSust/div_Filter Status' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_LiveSust/div_Filter Status'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$4.call(Unknown Source)
+	at Using filter status in Equip group.run(Using filter status in Equip group:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685690560962.run(TempTestSuite1685690560962.groovy:36)
+Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=113.0.5672.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'LAPTOP-OBS-62', ip: '172.31.98.38', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.127, chrome: {chromedriverVersion: 113.0.5672.24 (65f30d4e8051..., userDataDir: C:\Users\RAJESW~1.R\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:64609}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cdce77c5e6dae217c49baa76ec7f8220
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$4.call(Unknown Source)
+	at Script1684804740545.run(Script1684804740545.groovy:36)
+	... 16 more
+)
+[[ATTACHMENT|C:\\Users\\rajeswari.r\\Katalon Studio\\Livesust\\Reports\\20230602_125240\\Sprint 4\\20230602_125240\\1685694093818.png]]]]></system-out>
+         <system-err><![CDATA[2023-06-02 13:51:17 - [TEST_CASE][FAILED] - Test Cases/Sprint 4/Using filter status in Equip group: Test Cases/Sprint 4/Using filter status in Equip group FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_LiveSust/div_Filter Status'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$4.call(Unknown Source)
+	at Using filter status in Equip group.run(Using filter status in Equip group:36)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685690560962.run(TempTestSuite1685690560962.groovy:36)
+Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=113.0.5672.127)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'LAPTOP-OBS-62', ip: '172.31.98.38', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_362'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.127, chrome: {chromedriverVersion: 113.0.5672.24 (65f30d4e8051..., userDataDir: C:\Users\RAJESW~1.R\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:64609}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cdce77c5e6dae217c49baa76ec7f8220
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 22 more]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-06-02 12:53:08 - [TEST_SUITE][FAILED] - Sprint 4: Test Cases/Sprint 4/Add equip FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to set text 'New EQuips' of object 'Object Repository/Page_LiveSust/input_No_Name'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:980)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$2.call(Unknown Source)
+	at Add equip.run(Add equip:42)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685690560962.run(TempTestSuite1685690560962.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_LiveSust/input_No_Name' located by '//input[@id='Name']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:51)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-out>
+      <system-err><![CDATA[2023-06-02 12:53:08 - [TEST_SUITE][FAILED] - Sprint 4: Test Cases/Sprint 4/Add equip FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to set text 'New EQuips' of object 'Object Repository/Page_LiveSust/input_No_Name'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:980)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$2.call(Unknown Source)
+	at Add equip.run(Add equip:42)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1685690560962.run(TempTestSuite1685690560962.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_LiveSust/input_No_Name' located by '//input[@id='Name']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1381)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:51)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+   </testsuite>
+</testsuites>

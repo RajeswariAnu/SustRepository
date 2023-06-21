@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_OTP verified successfully</name>
+   <tag></tag>
+   <elementGuidId>68014c35-3171-4876-b337-77ba8a47202b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='toast-container']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ng-tns-c45-1.ng-star-inserted.ng-trigger.ng-trigger-flyInOut.ngx-toastr.toast-success</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>809f0d7c-152a-47cf-9dae-4eaa28b052c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c45-1 ng-star-inserted ng-trigger ng-trigger-flyInOut ngx-toastr toast-success</value>
+      <webElementGuid>2e872dbc-aad6-494f-8809-196938ae9a14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>× OTP verified successfully </value>
+      <webElementGuid>98d1a0e4-d5aa-4d60-bbd1-90e537f82876</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toast-container&quot;)/div[@class=&quot;ng-tns-c45-1 ng-star-inserted ng-trigger ng-trigger-flyInOut ngx-toastr toast-success&quot;]</value>
+      <webElementGuid>7d617325-5c2a-458a-9869-17faddf8eb34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='toast-container']/div</value>
+      <webElementGuid>ff80c44c-ea22-4ec2-b1d7-14c8982868ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save Password'])[1]/following::div[5]</value>
+      <webElementGuid>aa3c3c6e-562a-4f59-bef8-978553086569</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Re-Enter Password'])[1]/following::div[6]</value>
+      <webElementGuid>650970f4-4938-42ac-9faa-6dec50200d10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div</value>
+      <webElementGuid>a683741b-87cb-4e72-8d8d-ba8819631273</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '× OTP verified successfully ' or . = '× OTP verified successfully ')]</value>
+      <webElementGuid>789d3bfb-1c36-4e22-9456-19bcbc173a88</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

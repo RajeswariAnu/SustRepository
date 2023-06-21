@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Equipment Groups</name>
+   <tag></tag>
+   <elementGuidId>825b2886-a9ca-4c1f-ae41-029e04946681</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#nav-group-tab > span.pb-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='nav-group-tab']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e63194c9-bd7a-493e-a1f4-f8e08ef6ad63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pb-2</value>
+      <webElementGuid>8f7d3b46-310d-4673-bbb7-edc597d150be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Equipment Groups</value>
+      <webElementGuid>3e3d07ba-206f-4819-a671-167d7c0bcbb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-group-tab&quot;)/span[@class=&quot;pb-2&quot;]</value>
+      <webElementGuid>6c339ba2-b6f8-4d7b-a14c-82183568d643</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='nav-group-tab']/span</value>
+      <webElementGuid>3f7b2a53-d9ac-4ca2-92ed-4b4e512e3d5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Equipment'])[3]/following::span[1]</value>
+      <webElementGuid>9802ba53-8aa3-44bf-bf9d-a8aa78592baa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Equipment'])[2]/following::span[2]</value>
+      <webElementGuid>4fd80993-b4bb-41cb-9fda-93eaea2e5d47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter Status'])[1]/preceding::span[3]</value>
+      <webElementGuid>fac451d4-4462-4ca7-a7b7-b55e7ca8541b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select All'])[1]/preceding::span[5]</value>
+      <webElementGuid>82a0e6ed-e0ea-42cd-91d2-854946c0e8c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Equipment Groups']/parent::*</value>
+      <webElementGuid>4f759057-0994-4ba0-8e0a-7dd04cd28e99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>55e94403-465c-4125-bb28-c3ebbed80d15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Equipment Groups' or . = 'Equipment Groups')]</value>
+      <webElementGuid>c064262a-1c5e-46b6-a966-30ea622ef166</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

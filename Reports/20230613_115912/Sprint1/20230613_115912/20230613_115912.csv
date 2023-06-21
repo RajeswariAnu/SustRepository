@@ -1,0 +1,82 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Sprint1,Chrome 114.0.0.0,,,2023-06-13 11:59:37,2023-06-13 12:40:13,40m - 35.796s,FAILED
+,,,,,,,
+Test Cases/Sprint 1/Login,Chrome 114.0.0.0,,,2023-06-13 11:59:38,2023-06-13 12:00:00,22.363s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-13 11:59:39,2023-06-13 11:59:49,9.323s,PASSED
+maximizeWindow(),Chrome 114.0.0.0,,,2023-06-13 11:59:49,2023-06-13 11:59:49,0.356s,PASSED
+"navigateToUrl(""https://livesust-test-web.optisolbusiness.com/login"")",Chrome 114.0.0.0,,,2023-06-13 11:59:49,2023-06-13 11:59:53,4.322s,PASSED
+"setText(findTestObject(""Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address""), ""Benedicta@yopmail.com"")",Chrome 114.0.0.0,,,2023-06-13 11:59:53,2023-06-13 11:59:55,1.475s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password""), ""A6mEPJzh5E0zn4FxjKHQNA=="")",Chrome 114.0.0.0,,,2023-06-13 11:59:55,2023-06-13 11:59:55,0.726s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/button_Log In""))",Chrome 114.0.0.0,,,2023-06-13 11:59:55,2023-06-13 11:59:56,0.790s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_LiveSust/div_Login successfully""), 0)",Chrome 114.0.0.0,,,2023-06-13 11:59:56,2023-06-13 11:59:59,2.674s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-06-13 11:59:59,2023-06-13 12:00:00,1.414s,PASSED
+,,,,,,,
+Test Cases/Sprint 1/Postive scenario of change password,Chrome 114.0.0.0,,,2023-06-13 12:03:58,2023-06-13 12:05:19,1m - 20.196s,FAILED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-13 12:03:58,2023-06-13 12:04:04,5.451s,PASSED
+"navigateToUrl(""https://livesust-test-web.optisolbusiness.com/login"")",Chrome 114.0.0.0,,,2023-06-13 12:04:04,2023-06-13 12:04:08,3.881s,PASSED
+"setText(findTestObject(""Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address""), ""Benedicta@yopmail.com"")",Chrome 114.0.0.0,,,2023-06-13 12:04:08,2023-06-13 12:04:09,1.231s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password""), ""A6mEPJzh5E0jyMlyB9kA3w=="")",Chrome 114.0.0.0,,,2023-06-13 12:04:09,2023-06-13 12:04:10,0.710s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/button_Log In""))",Chrome 114.0.0.0,,,2023-06-13 12:04:10,2023-06-13 12:04:10,0.783s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down""))",Chrome 114.0.0.0,,,2023-06-13 12:04:10,2023-06-13 12:04:42,31.841s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/li_Change Password""))",Chrome 114.0.0.0,,,2023-06-13 12:04:42,2023-06-13 12:05:19,36.240s,FAILED
+,,,,,,,
+Test Cases/Sprint 1/Negative scenario of change password,Chrome 114.0.0.0,,,2023-06-13 12:05:19,2023-06-13 12:15:24,10m - 5.859s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-13 12:05:19,2023-06-13 12:05:25,5.365s,PASSED
+"navigateToUrl(""https://livesust-test-web.optisolbusiness.com/login"")",Chrome 114.0.0.0,,,2023-06-13 12:05:25,2023-06-13 12:05:29,3.869s,PASSED
+maximizeWindow(),Chrome 114.0.0.0,,,2023-06-13 12:05:29,2023-06-13 12:05:29,0.236s,PASSED
+"setText(findTestObject(""Object Repository/Page_LiveSust/input_Provider Log In_Username  E-Mail Address""), ""Benedicta@yopmail.com"")",Chrome 114.0.0.0,,,2023-06-13 12:05:29,2023-06-13 12:05:30,0.972s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_LiveSust/input_Username  E-Mail Address_Password""), ""A6mEPJzh5E0zn4FxjKHQNA=="")",Chrome 114.0.0.0,,,2023-06-13 12:05:30,2023-06-13 12:05:31,0.603s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/button_Log In""))",Chrome 114.0.0.0,,,2023-06-13 12:05:31,2023-06-13 12:05:31,0.789s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/button_Benedicta Company Name""))",Chrome 114.0.0.0,,,2023-06-13 12:05:31,2023-06-13 12:05:38,6.664s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/li_Change Password""))",Chrome 114.0.0.0,,,2023-06-13 12:05:38,2023-06-13 12:05:39,0.817s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_LiveSust/input_Change Password_Old Password""), ""gpRo7Svha2ybAjs0UyWd6A=="")",Chrome 114.0.0.0,,,2023-06-13 12:05:39,2023-06-13 12:05:40,0.721s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down""))",Chrome 114.0.0.0,,,2023-06-13 12:05:40,2023-06-13 12:06:11,31.740s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down""))",Chrome 114.0.0.0,,,2023-06-13 12:06:11,2023-06-13 12:06:43,31.685s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_LiveSust/input_Old Password_New Password""), ""A6mEPJzh5E0zn4FxjKHQNA=="")",Chrome 114.0.0.0,,,2023-06-13 12:06:43,2023-06-13 12:06:44,0.596s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down""))",Chrome 114.0.0.0,,,2023-06-13 12:06:44,2023-06-13 12:07:15,31.830s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down""))",Chrome 114.0.0.0,,,2023-06-13 12:07:15,2023-06-13 12:07:47,31.548s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_LiveSust/input_Maximum of 20 Characters_Confirm Password""), ""A6mEPJzh5E0zn4FxjKHQNA=="")",Chrome 114.0.0.0,,,2023-06-13 12:07:47,2023-06-13 12:07:48,0.752s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down""))",Chrome 114.0.0.0,,,2023-06-13 12:07:48,2023-06-13 12:08:20,31.845s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down""))",Chrome 114.0.0.0,,,2023-06-13 12:08:20,2023-06-13 12:08:51,31.764s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/button_Save Password""))",Chrome 114.0.0.0,,,2023-06-13 12:08:51,2023-06-13 12:08:52,0.545s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_LiveSust/div_Invalid old password""), 0)",Chrome 114.0.0.0,,,2023-06-13 12:08:52,2023-06-13 12:08:53,1.617s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_LiveSust/input_Change Password_Old Password""), ""A6mEPJzh5E0jyMlyB9kA3w=="")",Chrome 114.0.0.0,,,2023-06-13 12:08:53,2023-06-13 12:08:54,0.607s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/div_Old Password_password-eye ng-star-inserted""))",Chrome 114.0.0.0,,,2023-06-13 12:08:54,2023-06-13 12:09:26,31.559s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down""))",Chrome 114.0.0.0,,,2023-06-13 12:09:26,2023-06-13 12:09:57,31.875s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down""))",Chrome 114.0.0.0,,,2023-06-13 12:09:57,2023-06-13 12:10:29,31.675s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_LiveSust/input_Old Password_New Password""), ""A6mEPJzh5E0jyMlyB9kA3w=="")",Chrome 114.0.0.0,,,2023-06-13 12:10:29,2023-06-13 12:10:30,0.673s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down""))",Chrome 114.0.0.0,,,2023-06-13 12:10:30,2023-06-13 12:11:01,31.607s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down""))",Chrome 114.0.0.0,,,2023-06-13 12:11:01,2023-06-13 12:11:33,31.640s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_LiveSust/input_Maximum of 20 Characters_Confirm Password""), ""A6mEPJzh5E0jyMlyB9kA3w=="")",Chrome 114.0.0.0,,,2023-06-13 12:11:33,2023-06-13 12:11:34,0.646s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down""))",Chrome 114.0.0.0,,,2023-06-13 12:11:34,2023-06-13 12:12:05,31.702s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/button_Save Password""))",Chrome 114.0.0.0,,,2023-06-13 12:12:05,2023-06-13 12:12:06,0.587s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_LiveSust/div_Old password and New password should no_ff3087""))",Chrome 114.0.0.0,,,2023-06-13 12:12:06,2023-06-13 12:12:08,1.941s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_LiveSust/input_Change Password_Old Password""), ""A6mEPJzh5E0jyMlyB9kA3w=="")",Chrome 114.0.0.0,,,2023-06-13 12:12:08,2023-06-13 12:12:09,0.645s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down""))",Chrome 114.0.0.0,,,2023-06-13 12:12:09,2023-06-13 12:12:40,31.616s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down""))",Chrome 114.0.0.0,,,2023-06-13 12:12:40,2023-06-13 12:13:12,32.012s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_LiveSust/input_Old Password_New Password""), ""A6mEPJzh5E0zn4FxjKHQNA=="")",Chrome 114.0.0.0,,,2023-06-13 12:13:12,2023-06-13 12:13:13,0.661s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down""))",Chrome 114.0.0.0,,,2023-06-13 12:13:13,2023-06-13 12:13:45,31.835s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down""))",Chrome 114.0.0.0,,,2023-06-13 12:13:45,2023-06-13 12:14:16,31.741s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_LiveSust/input_Maximum of 20 Characters_Confirm Password""), ""A6mEPJzh5E0zn4FxjKHQNA=="")",Chrome 114.0.0.0,,,2023-06-13 12:14:16,2023-06-13 12:14:17,0.617s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down""))",Chrome 114.0.0.0,,,2023-06-13 12:14:17,2023-06-13 12:14:49,31.609s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/em_Company Name_lnr lnr-chevron-down""))",Chrome 114.0.0.0,,,2023-06-13 12:14:49,2023-06-13 12:15:20,31.745s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/button_Save Password""))",Chrome 114.0.0.0,,,2023-06-13 12:15:20,2023-06-13 12:15:21,0.537s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_LiveSust/div_Password has been changed successfully""), 0)",Chrome 114.0.0.0,,,2023-06-13 12:15:21,2023-06-13 12:15:23,1.626s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-06-13 12:15:23,2023-06-13 12:15:24,1.800s,PASSED
+,,,,,,,
+Test Cases/Sprint 1/Forgot password,Chrome 114.0.0.0,,,2023-06-13 12:34:00,2023-06-13 12:40:13,6m - 13.362s,FAILED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-13 12:34:00,2023-06-13 12:34:06,6.891s,PASSED
+"navigateToUrl(""https://livesust-test-web.optisolbusiness.com/login"")",Chrome 114.0.0.0,,,2023-06-13 12:34:06,2023-06-13 12:34:10,3.728s,PASSED
+maximizeWindow(),Chrome 114.0.0.0,,,2023-06-13 12:34:10,2023-06-13 12:34:10,0.168s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/a_Forgot Password""))",Chrome 114.0.0.0,,,2023-06-13 12:34:10,2023-06-13 12:34:43,32.875s,PASSED
+"setText(findTestObject(""Object Repository/Page_LiveSust/input_Having trouble logging in_E-Mail Address""), ""benedicta@yopmail.com"")",Chrome 114.0.0.0,,,2023-06-13 12:34:43,2023-06-13 12:34:44,1.069s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/button_Continue""))",Chrome 114.0.0.0,,,2023-06-13 12:34:44,2023-06-13 12:34:45,0.744s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_LiveSust/div_Email Sent successfully""), 0)",Chrome 114.0.0.0,,,2023-06-13 12:34:45,2023-06-13 12:34:47,1.528s,PASSED
+"setText(findTestObject(""Object Repository/Page_LiveSust/input_Having trouble logging in_otp_0_sel5c_9fb327""), ""6"")",Chrome 114.0.0.0,,,2023-06-13 12:34:47,2023-06-13 12:35:51,1m - 4.106s,PASSED
+"setText(findTestObject(""Object Repository/Page_LiveSust/input_Having trouble logging in_otp_1_sel5c_45af05""), ""0"")",Chrome 114.0.0.0,,,2023-06-13 12:35:51,2023-06-13 12:36:55,1m - 3.995s,PASSED
+"setText(findTestObject(""Object Repository/Page_LiveSust/input_Having trouble logging in_otp_2_sel5c_195f70""), ""7"")",Chrome 114.0.0.0,,,2023-06-13 12:36:55,2023-06-13 12:37:59,1m - 4.079s,PASSED
+"setText(findTestObject(""Object Repository/Page_LiveSust/input_Having trouble logging in_otp_3_sel5c_df0db2""), ""9"")",Chrome 114.0.0.0,,,2023-06-13 12:37:59,2023-06-13 12:39:04,1m - 4.876s,PASSED
+"click(findTestObject(""Object Repository/Page_LiveSust/button_Continue""))",Chrome 114.0.0.0,,,2023-06-13 12:39:04,2023-06-13 12:39:04,0.516s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_LiveSust/div_OTP verified successfully""))",Chrome 114.0.0.0,,,2023-06-13 12:39:04,2023-06-13 12:39:06,1.524s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_LiveSust/input_Enter New Password_Enter Password""), ""A6mEPJzh5E0zn4FxjKHQNA=="")",Chrome 114.0.0.0,,,2023-06-13 12:39:06,2023-06-13 12:39:38,32.023s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_LiveSust/input_Maximum of 20 Characters_Re-Enter Password""), ""A6mEPJzh5E0zn4FxjKHQNA=="")",Chrome 114.0.0.0,,,2023-06-13 12:39:38,2023-06-13 12:40:13,35.222s,FAILED

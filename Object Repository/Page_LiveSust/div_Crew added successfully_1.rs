@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Crew added successfully_1</name>
+   <tag></tag>
+   <elementGuidId>800e3093-2d2d-494c-b91b-5c82087d0f4e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='toast-container']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ng-tns-c45-2.ng-star-inserted.ng-trigger.ng-trigger-flyInOut.ngx-toastr.toast-success</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b6e73f4f-d0cb-483c-835a-3ce81aa78a09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c45-2 ng-star-inserted ng-trigger ng-trigger-flyInOut ngx-toastr toast-success</value>
+      <webElementGuid>984604e1-a9f6-4e10-bf5d-1c39d837c4b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>× Crew added successfully </value>
+      <webElementGuid>f098c59d-2886-448e-b0ef-29842526717a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toast-container&quot;)/div[@class=&quot;ng-tns-c45-2 ng-star-inserted ng-trigger ng-trigger-flyInOut ngx-toastr toast-success&quot;]</value>
+      <webElementGuid>4da26d6b-1209-477f-a9b1-e718c5cf9b07</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='toast-container']/div</value>
+      <webElementGuid>81331407-7549-4ccc-81cd-7cd1df401d95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='page'])[14]/following::div[6]</value>
+      <webElementGuid>bc25e3a1-12b6-44b7-942c-37766e9dba42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div</value>
+      <webElementGuid>599e1354-c881-4ca9-951e-d646026a9bd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '× Crew added successfully ' or . = '× Crew added successfully ')]</value>
+      <webElementGuid>5496b450-c3ed-45c7-acb3-b768c01a9593</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Sprint1,,,,2023-06-06 14:27:12,2023-06-06 14:28:29,1m - 17.158s,FAILED
+,,,,,,,
+Test Cases/Sprint 1/Login,,,,2023-06-06 14:27:34,2023-06-06 14:27:38,3.944s,FAILED
+"openBrowser("""")",,,,2023-06-06 14:27:34,2023-06-06 14:27:38,3.928s,FAILED
+,,,,,,,
+Test Cases/Sprint 1/Postive scenario of change password,,,,2023-06-06 14:27:50,2023-06-06 14:27:54,3.715s,FAILED
+"openBrowser("""")",,,,2023-06-06 14:27:50,2023-06-06 14:27:54,3.692s,FAILED
+,,,,,,,
+Test Cases/Sprint 1/Negative scenario of change password,,,,2023-06-06 14:28:07,2023-06-06 14:28:10,3.733s,FAILED
+"openBrowser("""")",,,,2023-06-06 14:28:07,2023-06-06 14:28:10,3.719s,FAILED
+,,,,,,,
+Test Cases/Sprint 1/Forgot password,,,,2023-06-06 14:28:24,2023-06-06 14:28:29,5.353s,FAILED
+"openBrowser("""")",,,,2023-06-06 14:28:24,2023-06-06 14:28:29,5.327s,FAILED
